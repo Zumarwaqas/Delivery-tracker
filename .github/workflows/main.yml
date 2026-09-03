@@ -1,49 +1,23 @@
-name: Update Delivery Data
+name: Test GitHub Actions
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
 
-permissions:
-  contents: write
+  push:
+
+    branches:
+
+      - main
+
+  workflow_dispatch:
 
 jobs:
-  update-data:
+
+  test:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Download latest Google Sheet data
-        run: |
-          mkdir -p data
+      - name: Test
 
-          curl -L --fail --silent --show-error \
-          "https://docs.google.com/spreadsheets/d/e/2PACX-1vRuHMBudqtV0vA5_WaRGJfcTeDMsRJ8I8JSQQp5ALd8e4oLmNQIGxW787tXH-3-UA-_7MUkpgrtUF1Z/pub?gid=0&single=true&output=csv" \
-          -o data/delivery.csv
-
-          curl -L --fail --silent --show-error \
-          "https://docs.google.com/spreadsheets/d/e/2PACX-1vRuHMBudqtV0vA5_WaRGJfcTeDMsRJ8I8JSQQp5ALd8e4oLmNQIGxW787tXH-3-UA-_7MUkpgrtUF1Z/pub?gid=660821826&single=true&output=csv" \
-          -o data/returns.csv
-
-          echo "Delivery file:"
-          wc -c data/delivery.csv
-
-          echo "Return file:"
-          wc -c data/returns.csv
-
-      - name: Commit updated data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add data/delivery.csv data/returns.csv
-
-          if git diff --cached --quiet; then
-            echo "No data changes detected."
-          else
-            git commit -m "Update delivery data"
-            git push
-          fi
+        run: echo "GitHub Actions is working!"
