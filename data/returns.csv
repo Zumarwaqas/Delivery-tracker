@@ -1,0 +1,1333 @@
+S/R,Delivery Date,SO DATE,SO NO,CUSTOMER NAME,MOBILE NUM,2 Mobile Number,ORDER VALUE,BRANCH,CATEGORY,LOCATION,TIME SLOT,STATUS,DRIVER,VEHICLE NO,VEHICLE TYPE,MOB NUM,STATUS,REMARKS
+1,2026-01-01,2024-11-20,undefined,NASIR,,,231.001,SOHR,Sanitary,Sohar,2to5pm,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,customer not available at home
+,2026-07-01,2025-09-10,undefined,abdulaziz,,,280.001,MBLB2C,Sanitary,ibri,3:00 - 6:00,CONFIRM,WAQAS MUNIR,4945,Danube High-Ups,,,Customer not answer the call
+,2026-07-01,2025-09-10,undefined,abdulaziz,,,280.001,MBLB2C,Sanitary,ibri,3:00 - 6:00,CONFIRM,WAQAS MUNIR,4945,Danube High-Ups,,,Customer not answer the call
+,2026-01-01,2025-09-19,undefined,Tarek,,,314.001,SOHR,BEDROOM,BURAIMI ,17:00-21:00,CONFIRM,ALEEM HAIDER,6672,Danube,,,customer not available at home
+,2026-01-05,2025-10-23,undefined,ziher,,,658,MBLB2C,GARDEN,Barka Rumais,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-12,2025-10-23,undefined,ziher,,,658,MBLB2C,GARDEN,Barka Rumais,17:00-21:00,CONFIRM,FAKHAR,4349,Danube,,,Customer site not ready
+,2026-01-22,2025-10-23,undefined,ziher,,,669.001,MBLB2C,Sanitary,Rumais,10to1pm,CONFIRM,SUMEER AHMAD,3057,Danube High-Ups,,,customer not available at home
+,2026-01-27,2025-10-25,undefined,Immad,,,589,ALKHWR,GARDEN,BAWSHAR,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-02-07,2025-10-25,undefined,Immad,,,589,ALKHWR,GARDEN,BAWSHAR,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-01-24,2025-10-25,undefined,hood,,,171.361,MBLB2C,Tiles,BARKA,9:00-1:00,CONFIRM,ADIL,2789,Danube High-Ups,,,customer not available at home
+,2026-01-10,2025-10-28,undefined,ASIM MOHAMMED,,,184.301,SOHR,Electrical,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-01-10,2025-10-28,undefined,ASIM MOHAMMED,,,178.201,SOHR,Electrical,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-01-10,2025-10-28,undefined,ASIM MOHAMMED,,,730.901,SOHR,Sanitary,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-01-10,2025-10-28,undefined,ASIM MOHAMMED,,,734.001,SOHR,Sanitary,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-01-10,2025-10-28,undefined,ASIM MOHAMMED,,,165.001,SOHR,Sanitary,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-01-22,2025-10-31,undefined,Yousuf Al Balushi,,,479,ALKHWR,LIVING,MABELLA,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not available at home
+,2026-01-22,2025-10-31,undefined,Yousuf Al Balushi,,,173,ALKHWR,BEDROOM,MABELLA,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not available at home
+,2026-01-22,2025-10-31,undefined,Yousuf Al Balushi,,,466,ALKHWR,BEDROOM,MABELLA,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not available at home
+,2026-01-22,2025-10-31,undefined,Yousuf Al Balushi,,,164,ALKHWR,BEDROOM,MABELLA,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not available at home
+,2026-01-04,2025-11-11,undefined,HAMOOD,,,230.1,SOHR,YOUNG BEDROOM,saham,13:00-17:00,CONFIRM,NOSHERWAN AKBAR,7297,Danube,,,Customer site not ready
+,2026-04-15,2025-11-16,undefined,abdullah,,,598,MBLB2C,GARDEN,alkhoud,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-03-25,2025-11-22,undefined,ABDULA,,,245.001,SOHR,Sanitary,SOHAR,2TO5PM,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,Due to rain
+,2026-04-22,2025-11-22,undefined,ABDULA,,,245.001,SOHR,Sanitary,SOHAR,2TO5PM ,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer want to later
+,2026-01-21,2025-11-27,undefined,MUSAB,,,770,ALKHWR,BEDROOM,AL ANSAB,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-01-05,2025-11-29,undefined,ziher,,,49.99,MBLB2C,GARDEN,Barka Rumais,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-12,2025-11-29,undefined,ziher,,,49.99,MBLB2C,GARDEN,Barka Rumais,17:00-21:00,CONFIRM,FAKHAR,4349,Danube,,,Customer site not ready
+,2026-02-07,2025-12-02,undefined,HAZAA ,,,150,SOHR,BEDROOM,SAHAM,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer site not ready
+,2026-01-29,2025-12-02,undefined,mubarak,,,280.001,MBLB2C,Sanitary,SHARADI,10to1pm,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-01-12,2025-12-03,undefined,AZHAR,,,707,MBLB2C,YOUNG BEDROOM,samail,09:00-13:00,CONFIRM,AWAIS ALI,146,Danube,,,Customer site not ready
+,2026-01-12,2025-12-03,undefined,AZHAR,,,69,MBLB2C,BEDROOM,samail,09:00-13:00,CONFIRM,AWAIS ALI,146,Danube,,,Customer site not ready
+,2026-02-21,2025-12-03,undefined,Fatima,,,637,NIZWA,LIVING, BARKAT AL MOUZ ,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-01-04,2025-12-15,undefined,HAMOOD,,,485.65,SOHR,BEDROOM,saham,13:00-17:00,CONFIRM,NOSHERWAN AKBAR,7297,Danube,,,Customer site not ready
+,2026-03-25,2025-12-17,undefined,IBRAHIM ABDULA,,,312.001,SOHR,Tiles,SOHAR,2TO5PM,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,Due to rain
+,2026-01-05,2025-12-18,undefined,shakir,,,89,ALKHWR,BEDROOM,AL KHUWAIR,09:00-13:00,CONFIRM,NAYEF FLAIFEL,2983,Elite,,,customer not available at home
+,2026-01-05,2025-12-21,undefined,BAAR,,,193.98,BARKA,LIVING,barka,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customer not available at home
+,2026-01-29,2025-12-21,undefined,BAAR,,,193.98,BARKA,LIVING,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-03-29,2025-12-21,undefined,HAMAD AL REESI,,,104,SOHR,BEDROOM,Liwa,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customr want to cancel order
+,2026-01-03,2025-12-22,undefined,ABDUL KAREEM,,,104,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,ALI HASSAN,5923,Danube,,,Customer site not ready
+,2026-01-11,2025-12-22,undefined,TARIK,,,239,BARKA,DINING,BARKA,13:00-17:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customer not available at home
+,2026-01-18,2025-12-22,undefined,ABDUL KAREEM,,,104,SOHR,BEDROOM,SOHAR,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-01-03,2025-12-24,undefined,ABDULHAKIAM,,,698,MBLB2C,LIVING,bowsher,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer site not ready
+,2026-02-01,2025-12-24,undefined,Sulthan,,,139,MBLB2C,GARDEN,Suweiq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer home space/Eletricity issue
+,2026-02-28,2025-12-24,undefined,Mohamed Zdjali,,,224,ALKHWR,BEDROOM,barka,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer wants later
+,2026-04-15,2025-12-24,undefined,Mohamed Zdjali,,,224,ALKHWR,BEDROOM,barka,09:00-13:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer site not ready
+,2026-01-06,2025-12-24,undefined,Sunset Brightness Trading LLC,,,1313.55,ALKHWR,Tiles,seeb,10 TO 1PM,CONFIRM,ADIL,2789,Danube High-Ups,,,Wrong location
+,2026-01-03,2025-12-25,undefined,ALI AL HAJJI ,,,349,ALKHWR,LIVING,mawalah,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-03,2025-12-25,undefined,ALI AL HAJJI,,,35,ALKHWR,LIVING,mawalah,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-10,2025-12-25,undefined,ABDUR RAHMAN,,,684,ALKHWR,GARDEN,AL AMRAT,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-01-10,2025-12-25,undefined,ALI AL HAJJI ,,,349,ALKHWR,LIVING,MAWELLAH,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-10,2025-12-25,undefined,ALI AL HAJJI,,,35,ALKHWR,LIVING,MAWELLAH,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-24,2025-12-25,undefined,Rashid,,,328,ALKHWR,BEDROOM,Al Suwaiq ,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-01-24,2025-12-25,undefined,ABDUR RAHMAN,,,684,ALKHWR,GARDEN,al amrat,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-01-11,2025-12-26,undefined,ALI,,,156,SOHR,HOSO,SOHAR,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-01-18,2025-12-26,undefined,ALI,,,156,SOHR,HOSO,SOHAR,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer not answer/Switch off
+,2026-01-29,2025-12-26,undefined,ALI,,,156,SOHR,HOSO,sohar,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-04-06,2025-12-26,undefined,jamal alshuaili,,,367,MBLB2C,BEDROOM,mabella,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-01-01,2025-12-27,undefined,MOHAMMED,,,250,ALKHWR,BEDROOM,falaj al sham,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-01-04,2025-12-27,undefined,sir,,,198,ALKHWR,GARDEN, QURUM,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-01-08,2025-12-27,undefined,rown,,,335,ALKHWR,DINING,QURUM,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,due to stair issue
+,2026-01-19,2025-12-27,undefined,NAWF,,,385.3,NIZWA,BEDROOM,NIZWA,13:00-17:00,CONFIRM,ALI HASSAN,5923,Danube,,,Due to late
+,2026-01-01,2025-12-28,undefined,umair,,,153,MBLB2C,BEDROOM,mabilah,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-01,2025-12-28,undefined,alanoud,,,149,MBLB2C,LIVING,mabilah,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-05,2025-12-28,undefined,KHALID SAID,,,63,MBLB2C,KIDS,RUSTAQ,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Due to late
+,2026-01-04,2025-12-29,undefined,Fauzia al maamry,,,34.25,MBLB2C,LIVING,Seeb,17:00-21:00,CONFIRM,ALI HASSAN,5923,Danube,,,Customer not answer/Switch off
+,2026-01-04,2025-12-29,undefined,Fauzia al maamry,,,165.001,MBLB2C,Sanitary,Seeb,17:00-21:00,CONFIRM,ALI HASSAN,5923,Danube,,,Customer not answer/Switch off
+,2026-01-06,2025-12-29,undefined,philip,,,141.3,ALKHWR,BEDROOM, GHOBRA,17:00-21:00,CONFIRM,FAKHAR,4349,Danube,,,customr want to change order
+,2026-01-07,2025-12-29,undefined,KHADIJA,,,233.055,SOHR,BEDROOM,SAHAM,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Due to late
+,2026-01-07,2025-12-29,undefined,IBRAHIM,,,213.25,ALKHWR,LIVING,hail,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-01-11,2025-12-29,undefined,Fauzia al maamry,,,34.25,MBLB2C,LIVING,Seeb,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-01-11,2025-12-29,undefined,Fauzia al maamry,,,165.001,MBLB2C,Sanitary,Seeb,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-01-04,2025-12-29,undefined,JASIM,,,185.001,MBLB2C,Sanitary,Barka,After 4pm as cust req,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Due to late
+,2026-01-04,2025-12-30,undefined,Mahmud Mohammed al shaili,,,101,NIZWA,LIVING,BAHLA,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-05,2025-12-30,undefined,أبو إلياس البطاشي,,,182.6,DANDIROM,KIDS,QURIYAT,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-01-14,2025-12-30,undefined,DAWOOD SULIMAN,,,109,NIZWA,LIVING,al hamra,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-01-14,2025-12-30,undefined,ahmed ,,,649,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,UMAIR SALEEM,1008,Danube,,,customer not available at home
+,2026-01-04,2025-12-31,undefined,Naser,,,129.05,MBLB2C,BEDROOM,RUSTAQ,09:00-13:00,CONFIRM,ALEEM HAIDER,6672,Danube,,,Customer not answer/Switch off
+,2026-01-06,2025-12-31,undefined,Om Mohammed,,,800.001,ALKHWR,LIVING,MUDAIBI,13:00-17:00,CONFIRM,ADNAN ALI,3046,Danube,,,Material issue
+,2026-01-08,2025-12-31,undefined,EMAD AL BULUSHI,,,115,MBLB2C,BEDROOM, MABELLA ,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,Customer home space/Eletricity issue
+,2026-01-10,2025-12-31,undefined,mosleh,,,261,ALKHWR,LIVING,ansab,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-01-10,2025-12-31,undefined,ALI AL HAJJI,,,144,ALKHWR,GARDEN,MAWELLAH,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-11,2025-12-31,undefined,Zaid,,,409,ALKHWR,LIVING,QURUM,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-01-11,2026-01-01,undefined,Mohammed ,,,701,ALKHWR,BEDROOM,AL KHUWAIR,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-02-01,2026-01-01,undefined,Sulthan,,,284,MBLB2C,YOUNG BEDROOM,Suweiq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer home space/Eletricity issue
+,2026-02-12,2026-01-01,undefined,Sulthan,,,284,MBLB2C,YOUNG BEDROOM,Suweiq,13:00-17:00,CONFIRM,UMER KHATAB,5042,Danube,,,Customer site not ready
+,2026-02-28,2026-01-01,undefined,AHMAD,,,527.25,SOHR,BEDROOM,LIWA,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer wants later
+,2026-01-11,2026-01-02,undefined,Omar ,,,170,SOHR,BEDROOM,SOHAR,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-02-02,2026-01-02,undefined,ABDULLAH,,,584,MBLB2C,BEDROOM,SOHAR,09:00-13:00,CONFIRM,UMER KHATAB,5042,Danube,,,wrong location
+,2026-02-11,2026-01-02,undefined,ABDULLAH,,,584,MBLB2C,BEDROOM,SOHAR,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer home space/Eletricity issue
+,2026-01-07,2026-01-03,undefined,abdullah,,,139,MBLB2C,DINING,Al Mussanaa,09:00-13:00,CONFIRM,ALI HASSAN,5923,Danube,,,Customer site not ready
+,2026-01-07,2026-01-03,undefined,ABDULLAH SALIM,,,260,NIZWA,DINING,IZKI,17:00-21:00,CONFIRM,ALEEM HAIDER,6672,Danube,,,Due to late
+,2026-01-14,2026-01-03,undefined,MAHMOOD,,,368,NIZWA,BEDROOM,nizwa,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-01-15,2026-01-03,undefined,abdullah,,,139,MBLB2C,DINING,Musanna,09:00-13:00,CONFIRM,FAKHAR,4349,Danube,,,Customer site not ready
+,2026-01-06,2026-01-03,undefined,NADA,,,160.001,ALKHWR,Sanitary,AMARAT,2 TO 5PM,CONFIRM,SUMEER AHMAD,3057,Danube High-Ups,,,Material size issue
+,2026-01-10,2026-01-03,undefined,Hamed Al Hajri,,,1378.081,MBLB2C,Tiles,Bowsher/Misfah,10to1pm,CONFIRM,SUMEER AHMAD,3057,Danube High-Ups,,,customer not available at home
+,2026-01-10,2026-01-03,undefined,Hamed Al Hajri,,,122,MBLB2C,Tiles,Bowsher/Misfah,10to1pm,CONFIRM,SUMEER AHMAD,3057,Danube High-Ups,,,customer not available at home
+,2026-01-10,2026-01-03,undefined,ASIM MOHAMMED,,,170.001,SOHR,Sanitary,Khabourah,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-03-22,2026-01-03,undefined,MALEEK,,,435.001,BARKA,Sanitary,BARKA,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Due to rain
+,2026-01-07,2026-01-04,undefined,aisha,,,90,ALKHWR,LIVING,AL KHOUD,17:00-21:00,CONFIRM,UMAIR SALEEM,1008,Danube,,,customer not available at home
+,2026-01-10,2026-01-04,undefined,ISMAIL ABDULLAH,,,27,MBLB2C,LIVING,MAWELLAH,13:00-17:00,CONFIRM,ALI HASSAN,5923,Danube,,,customr want to cancel order
+,2026-01-10,2026-01-04,undefined,SAMIA,,,450,MBLB2C,GARDEN,AL KHOUD,13:00-17:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,Customer site not ready
+,2026-01-11,2026-01-04,undefined,KHAWLA AL BATTASHI,,,98,ALKHWR,LIVING,AL HAIL,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-06-11,2026-01-04,undefined,ABDULLAH ALBULUSHI,,,337,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer home space/Eletricity issue
+,2026-01-10,2026-01-04,undefined,YUSUF,,,132.841,ALKHWR,Tiles,Alkhuwair,2to5pm,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,customr want to change order
+,2026-01-10,2026-01-05,undefined,mosleh,,,212,ALKHWR,LIVING,ansab,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-02-14,2026-01-05,undefined,Alaa Ashali ,,,315,ALKHWR,DINING,AL AMERAT,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer site not ready
+,2026-01-12,2026-01-06,undefined,fathia,,,204,NIZWA,KIDS,NIZWA - RADHA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer site not ready
+,2026-01-12,2026-01-06,undefined,fathia,,,40.9,NIZWA,PURIFIER AND APPLIANCES,NIZWA - RADHA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer site not ready
+,2026-01-27,2026-01-06,undefined,fathia,,,204,NIZWA,KIDS,NIZWA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-01-27,2026-01-06,undefined,fathia,,,40.9,NIZWA,PURIFIER AND APPLIANCES,NIZWA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-01-14,2026-01-06,undefined,RAYAN,,,199.3,ALKHWR,INDOOR,Bowsher,2to5pm,CONFIRM,ADIL,2789,Danube High-Ups,,,customer not available at home
+,2026-01-12,2026-01-07,undefined,YOUSEF,,,169,SOHR,DINING,sohar,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-01-15,2026-01-07,undefined,Maher ,,,222,ALKHWR,BEDROOM,AL KHOUD,09:00-13:00,CONFIRM,UMER KHATAB,5042,Danube,,,customer not available at home
+,2026-01-18,2026-01-08,undefined,Abdul,,,175,ALKHWR,BEDROOM,darsait,17:00-21:00,CONFIRM,ALI HASSAN,5923,Danube,,,Customer site not ready
+,2026-01-25,2026-01-08,undefined,Abdul,,,175,ALKHWR,BEDROOM,darsait,09:00-13:00,CONFIRMED,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-01-29,2026-01-08,undefined,ABDUR RAHMAN,,,45,MBLB2C,LIVING,barka,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer site not ready
+,2026-01-29,2026-01-08,undefined,ABDUR RAHMAN,,,641,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer site not ready
+,2026-03-22,2026-01-08,undefined,MALEEK,,,49.001,BARKA,Sanitary,BARKA,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Due to rain
+,2026-03-22,2026-01-10,undefined,MALEEK,,,47.501,BARKA,Sanitary,BARKA,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Due to rain
+,2026-01-14,2026-01-11,undefined,SAMI SULUIMAN,,,135,NIZWA,BEDROOM,nizwa,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-01-15,2026-01-11,undefined,NABEEL,,,94.05,BARKA,BEDROOM,MUSANNAH,09:00-13:00,CONFIRM,FAKHAR,4349,Danube,,,Material size issue
+,2026-01-19,2026-01-11,undefined,Ahmed,,,391.645,BARKA,LIVING,BAKRA,09:00-13:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customr want to change order
+,2026-01-15,2026-01-12,undefined,Jay Mal Singh,,,78,MBLB2C,BEDROOM,AL HAIL,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customer not available at home
+,2026-01-20,2026-01-12,undefined,FAHAD,,,146,MBLB2C,YOUNG BEDROOM,MABELLA,13:00-17:00,CONFIRM,KABEER HUSSAIN,4349,Danube,,,customer not available at home
+,2026-01-15,2026-01-12,undefined,salah,,,312.841,NIZWA,Tiles,Adam,2to5pm,CONFIRM,ADIL,2789,Danube High-Ups,,,wrong order
+,2026-01-21,2026-01-13,undefined,saud,,,17.4,ALKHWR,MULTI ROOM,quraiyat,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-01-21,2026-01-13,undefined,saud,,,277,ALKHWR,BEDROOM,quraiyat,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-01-27,2026-01-13,undefined,fathia,,,399.45,NIZWA,DINING,NIZWA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-01-17,2026-01-13,undefined,SAIF,,,518.21,MBLB2C,Tiles,Alhail,10to1pm,CONFIRM,ADIL,2789,Danube High-Ups,,,customer not available at home
+,2026-01-19,2026-01-15,undefined,TARGAM SAID,,,315,NIZWA,BEDROOM,IZKI,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-01-20,2026-01-15,undefined,RASHID ,,,410,SOHR,KIDS,SAHAM,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-01-22,2026-01-15,undefined,MOHAMMAD ALI ,,,127,MBLB2C,YOUNG BEDROOM,Mabellah,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-01-22,2026-01-15,undefined,NABEEL,,,73,BARKA,BEDROOM,MUSSANA,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customer not available at home
+,2026-01-27,2026-01-15,undefined,fathia,,,28,NIZWA,DINING,NIZWA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-01-29,2026-01-15,undefined,NABEEL,,,73,BARKA,BEDROOM,musaanah,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-01-20,2026-01-16,undefined,RASHID,,,51,SOHR,LIVING,SAHAM,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-01-20,2026-01-16,undefined,RASHID,,,44.001,SOHR,HOME DECOR,SAHAM,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-02-17,2026-01-16,undefined,IBRAHIM SAID,,,364.56,NIZWA,YOUNG BEDROOM,nizwa,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-01-21,2026-01-17,undefined,WAHEED,,,115,MBLB2C,BEDROOM,Al hail,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-01-22,2026-01-17,undefined,Zainab Alriyami,,,201.5,BARKA,BEDROOM,AL SUWAYQ,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Due to late
+,2026-01-24,2026-01-18,undefined,Sharique Ahmed,,,120,ALKHWR,BEDROOM,ghobrah,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-01-25,2026-01-18,undefined,Mohammed Ahmed Mohsin Sidiqui,,,1190,BARKA,BEDROOM,aziba,09:00-13:00,CONFIRMED,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-01-29,2026-01-19,undefined,Abd Hamid,,,489.942,BARKA,BEDROOM,musaanah,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-01-24,2026-01-20,undefined,KHALID,,,32.64,MBLB2C,Tiles,MUSAANAH,9:00-1:00,CONFIRM,ADIL,2789,Danube High-Ups,,,Customer want to another material
+,2026-01-25,2026-01-21,undefined,GOLDEN BEACH LINE TRADING,,,164,SOHR,BEDROOM,SHINAS,13:00-17:00,CONFIRMED,ADNAN ALI,3046,Danube,,,Material size issue
+,2026-01-29,2026-01-21,undefined,AHMED,,,527.25,MBLB2C,BEDROOM,AL KHOUD,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer site not ready
+,2026-02-21,2026-01-21,undefined,ABDULLA YOUSAF,,,49,ALKHWR,LIVING,MUSANNAH,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-02-21,2026-01-21,undefined,abd alaa,,,1180,SOHR,BEDROOM,LIWA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-01-27,2026-01-23,undefined,AHMAD,,,170,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Material size issue
+,2026-01-28,2026-01-23,undefined,YOUSEF,,,57,ALKHWR,YOUNG BEDROOM,Azaibah,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to change order
+,2026-02-23,2026-01-23,undefined,MOHSIN,,,577,MBLB2C,LIVING,barka,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,The customer needs delivery on 3 March.
+,2026-02-23,2026-01-23,undefined,MOHSIN,,,749.25,MBLB2C,DINING,barka,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,The customer needs delivery on 3 March.
+,2026-01-27,2026-01-24,undefined,faisal,,,738,ALKHWR,GARDEN,barka,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-01-31,2026-01-24,undefined,BLUELINE WORLDWIDE PRODUCTS LLC,,,201,ALKHWR,HOSO,al khuwair,17:00-21:00,CONFIRM,UMAIR SALEEM,1008,Danube,,,customer not available at home
+,2026-01-29,2026-01-25,undefined,SAIF,,,149,ALKHWR,GARDEN,MAWALLEH NORTH,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-29,2026-01-25,undefined,SAIF,,,119,ALKHWR,GARDEN,MAWALLEH NORTH,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-31,2026-01-25,undefined,Zainab al lawati,,,344.75,MBLB2C,LIVING, AL KHOUD ,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Material damage customer return (no stock)
+,2026-02-21,2026-01-25,undefined,YAHYA,,,799.151,ALKHWR,Sanitary,Bowsher,2to5pm,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-01-29,2026-01-26,undefined,Muntasar,,,125,MBLB2C,BEDROOM,Mabella,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customr want to cancel order
+,2026-02-10,2026-01-26,undefined,HOSSEIN MIRZAEI,,,104,ALKHWR,BEDROOM,m.s.q,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-02-18,2026-01-26,undefined,HOSSEIN MIRZAEI,,,104,ALKHWR,BEDROOM,M S Q,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-01-29,2026-01-26,undefined,khamis,,,45.64,ALKHWR,Tiles,ANSAB,10to1pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer not answer the call
+,2026-01-29,2026-01-26,undefined,Saif Allah,,,304.921,MBLB2C,Tiles,Rusail,10to1pm,CONFIRM,SUMEER AHMAD,3057,Danube High-Ups,,,customer not available at home
+,2026-01-31,2026-01-27,undefined,MOHAMMED YASSER,,,137,ALKHWR,DINING,BOWSHER ,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-02-03,2026-01-27,undefined,OCCI,,,554,MBLB2C,DINING,Ruwi,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-02-07,2026-01-27,undefined,Malik,,,177,ALKHWR,BEDROOM,BAHLA,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-02-16,2026-01-27,undefined,Malik,,,177,ALKHWR,BEDROOM,BAHLA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-02-03,2026-01-28,undefined,Mohammed,,,805,MBLB2C,BEDROOM,suwaiq,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-05-10,2026-01-28,undefined,MARWAN,,,151,MBLB2C,KIDS,Al-Musannah,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer home space/Eletricity issue
+,2026-05-10,2026-01-28,undefined,MARWAN,,,158,MBLB2C,YOUNG BEDROOM,Al-Musannah,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer home space/Eletricity issue
+,2026-02-02,2026-01-28,undefined,EMAN,,,499.901,MBLB2C,Sanitary,Alhail,10to1pm,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-02-02,2026-01-28,undefined,EMAN,,,500.001,MBLB2C,Sanitary,Alhail,10to1pm,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-02-02,2026-01-28,undefined,EMAN,,,165,MBLB2C,Sanitary,Alhail,10to1pm,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-02-02,2026-01-29,undefined,BADER ALI,,,155,MBLB2C,BEDROOM,AL ANSAB,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-02-02,2026-01-29,undefined,BADER ALI,,,185,MBLB2C,BEDROOM,AL ANSAB,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,NASSER,,,119,MBLB2C,GARDEN, MABELLA,13:00-17:00,CONFIRM,MAHMOOD,5275,Elite,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,NASSER,,,119,MBLB2C,GARDEN, MABELLA,13:00-17:00,CONFIRM,MAHMOOD,5275,Elite,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,AHMED ,,,150,ALKHWR,DINING,ALGHOUBRA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,AHMED ,,,144,ALKHWR,DINING,ALGHOUBRA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,ALI,,,240,MBLB2C,LIVING,AL AMERAT,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-02-03,2026-01-29,undefined,ALI,,,295,MBLB2C,LIVING,AL AMERAT,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-02-03,2026-01-29,undefined,OCCI,,,525.3,MBLB2C,House ware,Ruwi,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-02-03,2026-01-29,undefined,OCCI,,,525.5,MBLB2C,BEDROOM,Ruwi,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-02-14,2026-01-29,undefined,ALI,,,240,MBLB2C,LIVING,AL AMERAT,13:00-17:00,CONFIRM,UMER KHATAB,5042,Danube,,,customer not available at home
+,2026-02-14,2026-01-29,undefined,ALI,,,295,MBLB2C,LIVING,AL AMERAT,13:00-17:00,CONFIRM,UMER KHATAB,5042,Danube,,,customer not available at home
+,2026-02-16,2026-01-29,undefined,khamis,,,1060,SOHR,DINING,shinas,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-02-16,2026-01-29,undefined,khamis,,,1015,SOHR,LIVING,shinas,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-03-03,2026-01-29,undefined,khamis,,,1060,SOHR,DINING,Shinas,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-03-03,2026-01-29,undefined,khamis,,,1015,SOHR,LIVING,Shinas,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-03-10,2026-01-29,undefined,AHMED,,,517,SOHR,GARDEN,sohar,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-03-10,2026-01-29,undefined,AHMED,,,508,SOHR,GARDEN,sohar,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-03-11,2026-01-29,undefined,ZAKARIA ,,,1048,SOHR,BEDROOM,SHINAS,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-03-11,2026-01-29,undefined,ZAKARIA ,,,1050,SOHR,BEDROOM,SHINAS,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-03-23,2026-01-29,undefined,ZAKARIA ,,,1048,SOHR,GARDEN,SHINAS,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer wants later
+,2026-03-23,2026-01-29,undefined,ZAKARIA ,,,1050,SOHR,LIVING,SHINAS,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer wants later
+,2026-03-24,2026-01-29,undefined,AHMED,,,508,SOHR,GARDEN,sohar,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-24,2026-01-29,undefined,AHMED,,,517,SOHR,GARDEN,sohar,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-04-05,2026-01-29,undefined,ZAKARIA ,,,1048,SOHR,GARDEN,SHINAS,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-04-05,2026-01-29,undefined,ZAKARIA ,,,1050,SOHR,LIVING,SHINAS,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-02-21,2026-01-29,undefined,YAHYA,,,360.001,ALKHWR,Sanitary,Bowsher,2to5pm,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-02-04,2026-01-30,undefined,Hussen,,,230,MBLB2C,LIVING,MABELLA,13:00-17:00,CONFIRM,ADNAN ALI,3046,Danube,,,customr want to change order
+,2026-02-05,2026-01-30,undefined,WAQAS,,,675,MBLB2C,BEDROOM,barka,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,customer not available at home
+,2026-02-05,2026-01-30,undefined,WAQAS,,,673,MBLB2C,BEDROOM,barka,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,customer not available at home
+,2026-02-14,2026-01-30,undefined,SHAKIR,,,378,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-02-14,2026-01-30,undefined,SHAKIR,,,363,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-03-05,2026-01-30,undefined,MOHAMED ALBLOUSHI,,,728,SOHR,LIVING,SOHAR,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-03-05,2026-01-30,undefined,MOHAMED ALBLOUSHI,,,784,SOHR,BEDROOM,SOHAR,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-03-28,2026-01-30,undefined,MOHAMED ALBLOUSHI,,,728,SOHR,LIVING,SOHAR,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer site not ready
+,2026-03-28,2026-01-30,undefined,MOHAMED ALBLOUSHI,,,784,SOHR,BEDROOM,SOHAR,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer site not ready
+,2026-03-29,2026-01-30,undefined,HAMAD AL REESI,,,606,SOHR,BEDROOM,Liwa,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-03-29,2026-01-30,undefined,HAMAD AL REESI,,,675,SOHR,BEDROOM,Liwa,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-02-03,2026-01-31,undefined,Amal Mustahil,,,109,DANDIROM,DINING,AL HAIL,13:00-17:00,CONFIRM,MAHMOOD,5275,Elite,,,customer not available at home
+,2026-02-03,2026-01-31,undefined,AHMED,,,75,ALKHWR,DINING,ALGHOUBRA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-02-03,2026-01-31,undefined,Tufool AlDhahab,,,45,DANDIROM,MULTI ROOM,Ruwi,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer Cash issue
+,2026-02-03,2026-01-31,undefined,Abdul Aziz,,,338,MBLB2C,GARDEN,AL mussanah,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,Customer site not ready
+,2026-02-03,2026-01-31,undefined,Abdul Aziz,,,339,MBLB2C,BEDROOM,AL mussanah,17:00-21:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,Customer site not ready
+,2026-02-06,2026-01-31,undefined,MHAMOOD,,,599,MBLB2C,GARDEN,AL KHOUD,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-02-06,2026-01-31,undefined,MHAMOOD,,,575,MBLB2C,GARDEN,AL KHOUD,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-02-06,2026-01-31,undefined,Jabar sali,,,499,ALKHWR,GARDEN,Qurum,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants to change location
+,2026-02-18,2026-01-31,undefined,AHMED,,,554,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-02-18,2026-01-31,undefined,AHMED,,,540,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-06-30,2026-01-31,undefined,maqbul,,,498,MBLB2C,LIVING, MABELLA ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-06-30,2026-01-31,undefined,maqbul,,,485,MBLB2C,DINING, MABELLA ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-07-16,2026-01-31,undefined,maqbul,,,485,MBLB2C,DINING,mabila,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-07-16,2026-01-31,undefined,maqbul,,,498,MBLB2C,LIVING,mabila,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-08-08,2026-01-31,undefined,maqbul,,,498,MBLB2C,LIVING,mabella,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer site not ready
+,2026-08-08,2026-01-31,undefined,maqbul,,,485,MBLB2C,DINING,mabella,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer site not ready
+,2026-02-04,2026-02-01,undefined,Zakariya,,,105,BARKA,BEDROOM,BARKA,17:00-21:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,due to late
+,2026-02-04,2026-02-01,undefined,Zakariya,,,75,BARKA,HOSO,BARKA,17:00-21:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,due to late
+,2026-02-09,2026-02-01,undefined,ahmed abdulla  al abri,,,195,NIZWA,BEDROOM,bahla,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,wrong location
+,2026-03-07,2026-02-01,undefined,FAHAD,,,477,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customr want to change order
+,2026-03-07,2026-02-01,undefined,FAHAD,,,480,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customr want to change order
+,2026-02-05,2026-02-02,undefined,MAISA,,,170,ALKHWR,GARDEN,AL HAIL,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Wrong location
+,2026-02-08,2026-02-02,undefined,SHAMSA,,,490,MBLB2C,BEDROOM,AL KHOUD,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-02-08,2026-02-03,undefined,SHAMSA,,,508,MBLB2C,DINING,AL KHOUD,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-02-08,2026-02-03,undefined,SHAMSA,,,29,MBLB2C,LIVING,AL KHOUD,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-02-11,2026-02-03,undefined,NADER JABOOB,,,123,MBLB2C,GARDEN,mabilah,17:00-21:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Due to late
+,2026-02-11,2026-02-03,undefined,NADER JABOOB,,,125,MBLB2C,GARDEN,mabilah,17:00-21:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Due to late
+,2026-02-19,2026-02-03,undefined,SHAMSA,,,29,MBLB2C,LIVING,al khoud,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to change order
+,2026-02-19,2026-02-03,undefined,SHAMSA,,,508,MBLB2C,DINING,al khoud,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to change order
+,2026-02-09,2026-02-04,undefined,Ebtihal hussain alhajri,,,690,MBLB2C,LIVING,mabilah,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-02-09,2026-02-04,undefined,Ebtihal hussain alhajri,,,690,MBLB2C,LIVING,mabilah,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-02-12,2026-02-04,undefined,abdul aziz,,,230,MBLB2C,DINING,al khoud,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-02-15,2026-02-04,undefined,SAMIR,,,177,MBLB2C,BEDROOM,barka-Rumais,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,due to late
+,2026-02-15,2026-02-04,undefined,SAMIR,,,190,MBLB2C,YOUNG BEDROOM,barka-Rumais,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,due to late
+,2026-02-17,2026-02-04,undefined,SAMIR,,,190,MBLB2C,YOUNG BEDROOM,BARKA RUMAIS,09:00-13:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-02-17,2026-02-04,undefined,SAMIR,,,177,MBLB2C,BEDROOM,BARKA RUMAIS,09:00-13:00,CONFIRM,SULEMAN,7828,Elite,,,due to stair issue
+,2026-03-05,2026-02-04,undefined,khalsa salim,,,35,DANDIROM,LIVING,amirat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-04-15,2026-02-04,undefined,MAHMOOD,,,1120,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-15,2026-02-04,undefined,MAHMOOD,,,1109,MBLB2C,LIVING,barka,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-27,2026-02-04,undefined,MAHMOOD,,,1120,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-27,2026-02-04,undefined,MAHMOOD,,,1109,MBLB2C,LIVING,barka,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-02-07,2026-02-04,undefined,ABDULLA AL NOMANAI,,,151.421,MBLB2C,Tiles,mawalih,2to5pm,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-02-19,2026-02-05,undefined,HAMOOD,,,899,SOHR,GARDEN,KHABOURA,13:00-17:00,CONFIRM,UMER KHATAB,5042,Danube,,,Customer home space/Eletricity issue
+,2026-03-25,2026-02-05,undefined,ahmed,,,1858,MBLB2C,BEDROOM,MAWALLEH,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-03-25,2026-02-05,undefined,ahmed,,,1857,MBLB2C,BEDROOM,MAWALLEH,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-04-05,2026-02-05,undefined,ahmed,,,1858,MBLB2C,BEDROOM,MAWALLEH,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,due to stair issue
+,2026-04-05,2026-02-05,undefined,ahmed,,,1857,MBLB2C,BEDROOM,MAWALLEH,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,due to stair issue
+,2026-04-22,2026-02-05,undefined,ahmed,,,1857,MBLB2C,BEDROOM,alkhoud,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-04-22,2026-02-05,undefined,ahmed,,,1858,MBLB2C,BEDROOM,alkhoud,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-02-09,2026-02-05,undefined,MARYAM AL BHLANI,,,301.001,MBLB2C,Sanitary,Seeb,10to1pm,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer want to cancel order
+,2026-02-09,2026-02-05,undefined,MARYAM AL BHLANI,,,302.501,MBLB2C,Sanitary,Seeb,10to1pm,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer want to cancel order
+,2026-02-14,2026-02-06,undefined,ahmed,,,669,SOHR,HOSO,suwaiq,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,due to late
+,2026-02-14,2026-02-06,undefined,ahmed,,,654,SOHR,LIVING,SUWAIQ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,due to late
+,2026-02-28,2026-02-06,undefined,Isaq ali albusadi,,,1090,MBLB2C,BEDROOM,manah  ,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer wants to change location
+,2026-02-11,2026-02-07,undefined,HANI,,,927,ALKHWR,LIVING,Yiti -al khiran,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-02-11,2026-02-07,undefined,NAEEMA,,,295,SOHR,BEDROOM,SOHAR,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-02-13,2026-02-07,undefined,Tamer abdula,,,553,MBLB2C,BEDROOM,GHALA ,09:00-13:00,CONFIRMED,UMAIR SALEEM,1008,Danube,,,customer not available at home
+,2026-02-13,2026-02-07,undefined,Tamer abdula,,,473,MBLB2C,BEDROOM,GHALA ,09:00-13:00,CONFIRMED,UMAIR SALEEM,1008,Danube,,,customer not available at home
+,2026-02-13,2026-02-07,undefined,MANSOOR,,,200,ALKHWR,GARDEN, MAWELLAH,13:00-17:00,CONFIRMED,MUBASHAR,8622,Danube,,,Due to late
+,2026-02-13,2026-02-07,undefined,MANSOOR,,,200,ALKHWR,GARDEN, MAWELLAH,13:00-17:00,CONFIRMED,MUBASHAR,8622,Danube,,,Due to late
+,2026-02-16,2026-02-07,undefined,Mawia,,,300,ALKHWR,DINING,al khuwair,09:00-13:00,CONFIRM,MOHAMMAD IFTIKHAR,1008,Danube,,,due to late
+,2026-02-16,2026-02-07,undefined,Mawia,,,314,ALKHWR,DINING,al khuwair,09:00-13:00,CONFIRM,MOHAMMAD IFTIKHAR,1008,Danube,,,due to late
+,2026-02-17,2026-02-07,undefined,DUAA,,,134,ALKHWR,LIVING,quram,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,due to late
+,2026-02-20,2026-02-07,undefined,IBRAHIM,,,800,NIZWA,GARDEN,DHANK,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-03-04,2026-02-07,undefined,Yahiya,,,231,BARKA,BEDROOM,Musannah,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer not answer/Switch off
+,2026-03-04,2026-02-07,undefined,Yahiya,,,231,BARKA,BEDROOM,Musannah,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer not answer/Switch off
+,2026-03-07,2026-02-07,undefined,AIMAN,,,863,MBLB2C,BEDROOM,RUSTAQ,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer wants later
+,2026-03-10,2026-02-07,undefined,AHMED,,,110,SOHR,GARDEN,sohar,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-03-10,2026-02-07,undefined,AHMED,,,110,SOHR,GARDEN,sohar,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-03-24,2026-02-07,undefined,AHMED,,,110,SOHR,GARDEN,sohar,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-24,2026-02-07,undefined,AHMED,,,110,SOHR,GARDEN,sohar,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-05-02,2026-02-07,undefined,haitham,,,988.247,MBLB2C,LIVING,bawsher,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-05-02,2026-02-07,undefined,haitham,,,989.001,MBLB2C,LIVING,bawsher,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-06-20,2026-02-07,undefined,Fahed ,,,79,ALKHWR,LIVING,quriyat,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer not answer/Switch off
+,2026-06-20,2026-02-07,undefined,Fahed ,,,807,ALKHWR,BEDROOM,quriyat,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer not answer/Switch off
+,2026-06-20,2026-02-07,undefined,Fahed ,,,805,ALKHWR,BEDROOM,quriyat,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer not answer/Switch off
+,2026-07-30,2026-02-07,undefined,Fahed ,,,805,ALKHWR,BEDROOM,quriyat,13:00-17:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer site not ready
+,2026-07-30,2026-02-07,undefined,Fahed ,,,807,ALKHWR,BEDROOM,quriyat,13:00-17:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer site not ready
+,2026-07-30,2026-02-07,undefined,Fahed ,,,79,ALKHWR,LIVING,quriyat,13:00-17:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer site not ready
+,2026-02-11,2026-02-08,undefined,K Sundar Rao,,,225,SOHR,BEDROOM,SOHAR,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-02-11,2026-02-08,undefined,K Sundar Rao,,,194,SOHR,YOUNG BEDROOM,SOHAR,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-02-11,2026-02-08,undefined,NAEEMA,,,330,SOHR,BEDROOM,SOHAR,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-02-11,2026-02-08,undefined,NAEEMA,,,335,SOHR,BEDROOM,SOHAR,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-02-17,2026-02-08,undefined,sultan,,,594,MBLB2C,LIVING,mabilah,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,Customer site not ready
+,2026-02-17,2026-02-08,undefined,sultan,,,558,MBLB2C,LIVING,mabilah,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,Customer site not ready
+,2026-02-18,2026-02-08,undefined,Qasim,,,239,MBLB2C,GARDEN,mabilah,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,customr want to cancel order
+,2026-02-18,2026-02-08,undefined,Qasim,,,289,MBLB2C,GARDEN,mabilah,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,customr want to cancel order
+,2026-02-19,2026-02-08,undefined,VIVEK,,,248,ALKHWR,LIVING,mawalah,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-02-19,2026-02-08,undefined,VIVEK,,,247,ALKHWR,HOSO,mawalah,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-04-19,2026-02-08,undefined,MANEA,,,450,ALKHWR,LIVING,azaiba,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer wants later
+,2026-04-19,2026-02-08,undefined,MANEA,,,450,ALKHWR,LIVING,azaiba,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customr want to cancel order
+,2026-02-15,2026-02-09,undefined,yaqoub Alasmi,,,31.55,DANDIROM,LIVING,mabella,09:00-13:00,CONFIRM,ASHFAQ,8905,Elite,,,Customer not answer/Switch off
+,2026-02-15,2026-02-09,undefined,انوار Wahaibi,,,32,DANDIROM,INDOOR,al amrat,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer want both order 
+,2026-02-15,2026-02-09,undefined,عبدالله الجابري,,,112.25,DANDIROM,MULTI ROOM,Ghubrah,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,wrong location
+,2026-02-19,2026-02-09,undefined,ZAKHIYA,,,120,MBLB2C,BEDROOM,falaj al sham,13:00-17:00,CONFIRM,ASHFAQ,8905,Elite,,,wrong location
+,2026-02-23,2026-02-09,undefined,yaqoub Alasmi,,,31.55,DANDIROM,LIVING,Manuma,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-05,2026-02-09,undefined,yaqoub Alasmi,,,31.55,DANDIROM,LIVING,seeb,09:00-13:00,CONFIRM,IFTIKHAR AHMED,432,Danube,,,customr want to cancel order
+,2026-03-25,2026-02-09,undefined,HOUDA ZARGOUNI,,,198,ALKHWR,LIVING,M S Q,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-02-14,2026-02-10,undefined,MUSSLLAM,,,59,MBLB2C,GARDEN,RUSTAQ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,due to late
+,2026-02-14,2026-02-10,undefined,MUSSLLAM,,,344,MBLB2C,DINING,RUSTAQ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,due to late
+,2026-02-14,2026-02-10,undefined,ABBAS,,,66,MBLB2C,LIVING,mabella,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-02-16,2026-02-10,undefined,سعيد //,,,173,DANDIROM,DINING,al amrat,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-02-21,2026-02-10,undefined,wALID,,,173,ALKHWR,DINING,quriyath,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-05,2026-02-10,undefined,wALID,,,173,ALKHWR,DINING,quriyath,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-02-15,2026-02-11,undefined,ام   أسامة ,,,37.25,DANDIROM,House ware,AL hail,13:00-17:00,CONFIRM,ASHFAQ,8905,Elite,,,customer not available at home
+,2026-02-24,2026-02-11,undefined,SAUD ALI,,,369.001,MBLB2C,GARDEN,MUDAIBI,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customr want to change order
+,2026-02-16,2026-02-11,undefined,ali mahmoud,,,587.791,ALKHWR,HARDWARE 15,MABELLAH,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-02-16,2026-02-12,undefined,ZUMA'A,,,280.12,BARKA,LIVING,Sawadi,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to color issue
+,2026-02-17,2026-02-12,undefined,ahmed albulushi ,,,20,DANDIROM,LIVING,Al hail,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-02-18,2026-02-12,undefined,خالد المعمري,,,181,DANDIROM,BEDROOM,Al-Azaiba ,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,due to late
+,2026-02-21,2026-02-12,undefined,خالد المعمري,,,181,DANDIROM,BEDROOM,AZAIBA,13:00-17:00,CONFIRM,RIZWAN TASADDAQ,1008,Danube,,,Customer not answer/Switch off
+,2026-02-21,2026-02-12,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,Al-Amirat,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-04,2026-02-12,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,amirat,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-03-14,2026-02-12,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,amirat,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-28,2026-02-12,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,amirat,17:00-21:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer not answer/Switch off
+,2026-02-19,2026-02-13,undefined,Jorge Berlinches Garcia,,,43.7,DANDIROM,HOSO,MABELLA,09:00-13:00,CONFIRM,MUHAMMED REHMAN,432,Danube,,,customr want to change order
+,2026-02-22,2026-02-13,undefined,QAIS,,,207,MBLB2C,BEDROOM,seeb,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer Need togather
+,2026-02-22,2026-02-13,undefined,Abdul Bari Khamis Saleh AL Balushi,,,354.75,MBLB2C,KIDS,musaanah,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,Customer site not ready
+,2026-02-21,2026-02-14,undefined,Salam Nassar,,,360.55,MBLB2C,DINING,mawalleh,09:00-13:00,CONFIRM,RIZWAN TASADDAQ,1008,Danube,,,Customer home space/Eletricity issue
+,2026-02-22,2026-02-14,undefined,TALIB,,,299,MBLB2C,GARDEN,rustaq,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,Customer site not ready
+,2026-02-28,2026-02-14,undefined,Salam Nassar,,,360.55,MBLB2C,DINING,mawelleh,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customr want to cancel order
+,2026-02-19,2026-02-16,undefined,ZUMA'A,,,280.12,BARKA,LIVING,Barka,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Sofa color issue
+,2026-02-20,2026-02-16,undefined,omar,,,122.805,ALKHWR,BEDROOM, AL HAIL,17:00-21:00,CONFIRM,UMER KHATAB,5042,Danube,,,Customer Need togather
+,2026-02-21,2026-02-16,undefined,MAHAMOOD AL ABRI,,,206,SOHR,LIVING,AL KHOUD,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customr want to cancel order
+,2026-02-28,2026-02-16,undefined,ZUMA'A,,,280.12,BARKA,LIVING,Barka,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customr want to cancel order
+,2026-02-25,2026-02-17,undefined,LAILA AL BALUSHI,,,575,ALKHWR,LIVING,AL AMERAT,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-02-25,2026-02-17,undefined,khalil Alfarai ,,,284.5,DANDIROM,LIVING,Musanah,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-07,2026-02-17,undefined,LAILA AL BALUSHI,,,575,ALKHWR,LIVING,AL AMERAT,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-03-23,2026-02-17,undefined,Ahmed,,,1346.726,SOHR,BEDROOM,BURAIMI ,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to rain
+,2026-04-23,2026-02-17,undefined,KALID,,,1168.001,NIZWA,LIVING,IBRI,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-03-22,2026-02-17,undefined,SALIM AL-AMRI,,,70.56,ALKHWR,Tiles,MABELLAH,10TO1PM,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,Due to rain
+,2026-02-22,2026-02-18,undefined,QASIM,,,45,MBLB2C,MULTI ROOM,Khaburah,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-02-25,2026-02-18,undefined,khalid,,,349,ALKHWR,DINING,AL KHOUD,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,wrong location
+,2026-02-25,2026-02-18,undefined,khalid,,,80,ALKHWR,MULTI ROOM,AL KHOUD,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,wrong location
+,2026-02-25,2026-02-18,undefined,Megha  Guruprasad ,,,80,DANDIROM,BEDROOM,Ghubrah,17:00-21:00,CONFIRM,RIZWAN TASADDAQ,1008,Danube,,,Material damage customer return 
+,2026-02-26,2026-02-18,undefined,Muneer Andul,,,36.26,DANDIROM,MULTI ROOM,Al khuwair,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-03-03,2026-02-18,undefined,mohammod,,,154.678,MBLB2C,BEDROOM,RUSTAQ,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,Due to late
+,2026-03-14,2026-02-18,undefined,QASIM,,,45,MBLB2C,MULTI ROOM,Khaburah,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-05-30,2026-02-18,undefined,Masoud  Al Riyami,,,4369.989,ALKHWR,Tiles,BOWSHAR,10TO1PM,CONFIRM,ZULFIQAR ALI,3057,Danube High-Ups,,,Customer site not ready
+,2026-02-26,2026-02-19,undefined,Mahmood Alsakiti,,,147,DANDIROM,Sanitary,Barka,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,wrong location
+,2026-02-28,2026-02-19,undefined,SULTAN AL RISI,,,975,ALKHWR,BEDROOM,Al khuwair,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-03-03,2026-02-19,undefined,Husam,,,137,MBLB2C,DINING,seeb souq,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer wants later
+,2026-02-23,2026-02-19,undefined,ABDULLLAH,,,376.601,SOHR,Sanitary,sohar,2to5pm,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer not answer the call
+,2026-03-08,2026-02-19,undefined,ABDELHAFEEZ,,,203.401,ALKHWR,Sanitary,AMARAT,2TO5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-02-26,2026-02-20,undefined,Rahil,,,121.5,MBLB2C,MULTI ROOM, MABELLA,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-02-26,2026-02-20,undefined,Sara Alamri,,,55,DANDIROM,BEDROOM,Mabellah,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-02-26,2026-02-20,undefined,Saleh,,,137,MBLB2C,DINING, MABELLA,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-01,2026-02-20,undefined,Marw Mohammed,,,137,DANDIROM,DINING,AL AMERAT,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,customr want to cancel order
+,2026-03-05,2026-02-20,undefined,ofra raisi,,,468.999,DANDIROM,DINING,MSQ,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-16,2026-02-20,undefined,ofra raisi,,,468.999,DANDIROM,DINING,M S Q,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-03-22,2026-02-20,undefined,ABDULLAH,,,515,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-03-31,2026-02-20,undefined,ofra raisi,,,468.999,DANDIROM,DINING,MSQ,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-02-25,2026-02-21,undefined,RAIYAN AL SABBAGH,,,234,ALKHWR,BEDROOM,MUTTRAH,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-02-26,2026-02-21,undefined,mohamed al busadi,,,780,ALKHWR,DINING,MABELLA ,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-02,2026-02-21,undefined,obai Basher,,,89,DANDIROM,YOUNG BEDROOM,alkhuwair,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-03-03,2026-02-21,undefined,Dawoud Mahrouqi,,,58,DANDIROM,GARDEN,Falaj ash sham,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-14,2026-02-21,undefined,SAIF,,,194,SOHR,GARDEN,shinas,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-03-15,2026-02-21,undefined,Dawoud Mahrouqi,,,58,DANDIROM,GARDEN,misfah,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-03-28,2026-02-21,undefined,Nazer said,,,511,MBLB2C,LIVING, MABELLA,17:00-21:00,CONFIRM,ABDULLAH,562,Elite,,,Customer wants later
+,2026-04-06,2026-02-21,undefined,Nazer said,,,511,MBLB2C,LIVING,mabella,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-04-14,2026-02-21,undefined,Nazer said,,,511,MBLB2C,LIVING,mabella,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer site not ready
+,2026-03-19,2026-02-21,undefined,SALIM AL-AMRI,,,786.052,ALKHWR,Tiles,MABELLAH,10TO1PM,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,Due to rain
+,2026-03-22,2026-02-21,undefined,SALIM AL-AMRI,,,154.001,ALKHWR,Sanitary,MABELLAH,10TO1PM,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,Due to rain
+,2026-03-03,2026-02-22,undefined,hasnaa alharthy,,,467,DANDIROM,BEDROOM,AL ANSAB ,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-03,2026-02-22,undefined,mohamed saidi,,,59,DANDIROM,LIVING,Al hail,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer not answer/Switch off
+,2026-02-25,2026-02-22,undefined,is7aq salem,,,400.001,ALKHWR,DOORS DH,MATTRAH,2TO5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer want to cancel order
+,2026-03-04,2026-02-23,undefined,Kalicharan  CS,,,116,DANDIROM,BEDROOM,mabila,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer wants later
+,2026-04-20,2026-02-23,undefined,saleh,,,249,ALKHWR,GARDEN,amerat,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-20,2026-02-23,undefined,saleh,,,249,ALKHWR,GARDEN,AL AMERAT,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-06-03,2026-02-23,undefined,saleh,,,249,ALKHWR,GARDEN,AL AMERAT,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-02-28,2026-02-23,undefined,MUSTAFA,,,200.341,SOHR,Tiles,SAHAM,10TO1PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer mobile no switch off
+,2026-03-01,2026-02-23,undefined,HOOD SAID,,,284.901,NIZWA,Tiles,IZKI,2TO5PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer site no space
+,2026-03-02,2026-02-23,undefined,ENGINEERS FOR INVESTMENT LLC,,,192.294,MBLB2C,Tiles,AL KHOUD,10TO1PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer not available at home
+,2026-03-01,2026-02-24,undefined,Marah Qawasmi,,,35.1,DANDIROM,MULTI ROOM,SEEB,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-03-01,2026-02-24,undefined,JIBU,,,164,ALKHWR,BEDROOM,Azaiba,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,Customer wants later
+,2026-03-01,2026-02-24,undefined,Kssam Ammar ,,,34,DANDIROM,MULTI ROOM,Mabellah,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-03,2026-02-24,undefined,SALIM SAID ALHAGRY,,,369.251,ALKHWR,BEDROOM,BIDIYA,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-03-11,2026-02-24,undefined,Anisha khanna,,,92,DANDIROM,BEDROOM,M S Q,13:00-17:00,CONFIRM,ABDULLAH,8905,Elite,,,customer not available at home
+,2026-03-26,2026-02-24,undefined,Saif Saleh ,,,109,NIZWA,BEDROOM,nizwa,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-03-31,2026-02-24,undefined,Anisha khanna,,,92,DANDIROM,BEDROOM,MSQ,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-04-25,2026-02-24,undefined,Saif Saleh ,,,109,NIZWA,BEDROOM,nizwa,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-02-28,2026-02-24,undefined,EM BADHRUDEEN & PARTNERS LLC,,,260.001,ALKHWR,Sanitary,MISFA,2TO5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer not answer the call
+,2026-03-01,2026-02-25,undefined,aisha,,,118,ALKHWR,BEDROOM,AZAIBA,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-03-02,2026-02-25,undefined,ABDO FOUDA,,,99,MBLB2C,GARDEN,bustan,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-03-02,2026-02-25,undefined,ABDO FOUDA,,,249,MBLB2C,DINING,bustan,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-03-02,2026-02-25,undefined,timothy,,,80,ALKHWR,GARDEN,GHOBRA,17:00-21:00,CONFIRM,ABDULLA,8905,Elite,,,Due to late
+,2026-03-02,2026-02-26,undefined,sadoq,,,299,ALKHWR,LIVING,MABELLA,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to cancel order
+,2026-03-02,2026-02-26,undefined,NAGI SULEMAN,,,210,MBLB2C,DINING,AL HAIL,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-02,2026-02-26,undefined,HANI HADDAD,,,317,ALKHWR,LIVING,GHOBRA,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-03-02,2026-02-26,undefined,MAHEEMD,,,102,BARKA,LIVING,MUSANNAH,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-04,2026-02-26,undefined,MANSOOR,,,93.5,SOHR,LIVING,saham,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Due to late
+,2026-06-20,2026-02-26,undefined,ABDULLAH MUSALIM,,,144.702,ALKHWR,Tiles,amirat,3:00 to 6:00,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,Customer want to later
+,2026-03-03,2026-02-27,undefined,abdulrahman Alghabousi,,,129,MBLB2C,BEDROOM,MABELLA,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer not answer/Switch off
+,2026-03-08,2026-02-27,undefined,Joud Jihad,,,56,DANDIROM,DINING,ansab,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-03-09,2026-02-27,undefined,Fatema Alfazari,,,99,DANDIROM,BEDROOM,mabila,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to change order
+,2026-03-09,2026-02-27,undefined,abdulrahman Alghabousi,,,129,MBLB2C,BEDROOM,MABELLA ,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-03-18,2026-02-27,undefined,Joud Jihad,,,56,DANDIROM,DINING,Bawshar,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to cancel order
+,2026-03-02,2026-02-27,undefined,JABER,,,102.061,MBLB2C,Tiles,MABELLAH,10TO1PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer site no space
+,2026-03-08,2026-02-27,undefined,ABDULLAH,,,56.001,MBLB2C,Sanitary,BARKA,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-03-06,2026-02-28,undefined,OWN,,,60,ALKHWR,BEDROOM,bowsher,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Material size issue
+,2026-03-06,2026-02-28,undefined,asma,,,278.9,ALKHWR,BEDROOM,khoud,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-15,2026-02-28,undefined,MUBARAK Albadri,,,130,DANDIROM,BEDROOM,seeb,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-03-04,2026-02-28,undefined,AMMAR TOUBI,,,279.901,ALKHWR,HARDWARE 15,MAWALH,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,material damage customer return 
+,2026-03-07,2026-02-28,undefined,Abdullah sulaiman,,,112.001,NIZWA,DOORS DH,BAHLA,2TO5PM,CONFIRM,WAQAS MUNIR,1121,Danube High-Ups,,,Customer not answer the call
+,2026-03-11,2026-02-28,undefined,Abdullah sulaiman,,,112.001,NIZWA,DOORS DH,BAHLA,2TO5PM,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-03-05,2026-03-01,undefined,Amran Al Kitani,,,102,SUR,BEDROOM,ANSAB,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,due to late
+,2026-03-08,2026-03-01,undefined,faisal,,,269,MBLB2C,GARDEN, AL ANSAB ,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,gate paas issue
+,2026-03-28,2026-03-01,undefined,Al Harith Al Harthi,,,718,ALKHWR,DINING,mawalleh,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-03-07,2026-03-02,undefined,rashid,,,230,MBLB2C,BEDROOM,MABELLA,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-03-07,2026-03-02,undefined,rashid,,,323,MBLB2C,BEDROOM,MABELLA,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-03-12,2026-03-02,undefined,Meeru  Salam,,,116,DANDIROM,BEDROOM,khoud ,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to cancel order
+,2026-03-19,2026-03-02,undefined,Meeru  Salam,,,116,DANDIROM,BEDROOM,seeb,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-07,2026-03-02,undefined,NAJLA AL RIYAMI,,,157.897,ALKHWR,Tiles,MSQ,2TO5PM,CONFIRM,AMIR KARAMAT,8036,Danube High-Ups,,,customer not available at home
+,2026-03-23,2026-03-03,undefined,Ahmed,,,256.501,SOHR,BEDROOM,BURAIMI ,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to rain
+,2026-07-30,2026-03-03,undefined,ghanim,,,160.001,ALKHWR,Sanitary,amirat,3:00 - 6:00,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer site not ready
+,2026-03-09,2026-03-04,undefined,عبدالله  البوصافي ,,,36,DANDIROM,BEDROOM,AL KHUWAIR,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-03-14,2026-03-04,undefined,Reham  Ahmed ,,,48,DANDIROM,House ware,Bowhser,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-03-14,2026-03-04,undefined,Adnan Al balushi,,,75,DANDIROM,LIVING,amirat,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-25,2026-03-04,undefined,عبدالله  البوصافي ,,,36,DANDIROM,BEDROOM,alkhuwair,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to cancel order
+,2026-03-29,2026-03-04,undefined,Adnan Al balushi,,,75,DANDIROM,LIVING,amirat,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to cancel order
+,2026-04-19,2026-03-04,undefined,nasser,,,390.8,NIZWA,BEDROOM,alhamra,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-04-15,2026-03-04,undefined,KHATIJA,,,351.499,ALKHWR,DOORS DH,ALKHOUD,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-04-15,2026-03-04,undefined,KHATIJA,,,123.501,ALKHWR,HARDWARE 15,ALKHOUD,10TO1PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-03-09,2026-03-05,undefined,Jorge Berlinches Garcia,,,17,DANDIROM,HOSO,Mabellah,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Material color issue
+,2026-03-10,2026-03-05,undefined,Sultan,,,115,MBLB2C,BEDROOM,BIDBID,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-03-10,2026-03-05,undefined,Sultan,,,257,MBLB2C,Home Furnishing,bidbid,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-03-11,2026-03-05,undefined,Mohammad Alshaaili,,,1551.04,SOHR,LIVING,Sohar,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-03-15,2026-03-05,undefined,ghizlane bouabid,,,69,DANDIROM,BEDROOM,mabila,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-15,2026-03-05,undefined,hamuza Balijje,,,48.5,DANDIROM,HOSO,mabila,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-03-28,2026-03-05,undefined,AL-HARIS,,,240,ALKHWR,DINING,mawalleh,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-03-11,2026-03-06,undefined,YOUSEF,,,170,MBLB2C,LIVING,AL KHOUD,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-23,2026-03-06,undefined,Mohammed  Al Harthy,,,47,DANDIROM,YOUNG BEDROOM,Seeb,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-03-11,2026-03-07,undefined,moosa,,,543,MBLB2C,BEDROOM,barka,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer not answer/Switch off
+,2026-03-18,2026-03-07,undefined,NAZAL,,,480,NIZWA,GARDEN,BARKAT AL MAUJ,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,wrong location
+,2026-03-11,2026-03-08,undefined,Mohammad Alshaaili,,,356,SOHR,BEDROOM,Sohar,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-03-12,2026-03-08,undefined,hadiya,,,238,MBLB2C,LIVING,KHOUD,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,customr want to cancel order
+,2026-03-14,2026-03-08,undefined,ISMAIL,,,149,ALKHWR,LIVING,Mabellah,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-03-13,2026-03-09,undefined,شيخة الإسماعيلية,,,32.4,DANDIROM,House ware,Rusayl,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer not answer/Switch off
+,2026-03-14,2026-03-09,undefined,HAMED,,,707,MBLB2C,BEDROOM,Mabellah,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-03-16,2026-03-09,undefined,OWN,,,60,ALKHWR,BEDROOM,BOWSHER,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-03-26,2026-03-09,undefined,Reem Syed fayyaz,,,966,ALKHWR,LIVING,Ghubrah,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,Customer site not ready
+,2026-03-14,2026-03-10,undefined,hasnaa alharthy,,,258,ALKHWR,BEDROOM,AL ANSAB,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-03-14,2026-03-10,undefined,ahmed,,,105,ALKHWR,BEDROOM,QURAM,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-03-22,2026-03-10,undefined,Salim  Al Barwani ,,,63,DANDIROM,LIVING,gala,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customr want to cancel order
+,2026-03-22,2026-03-10,undefined,Alazhar  Al Azri,,,89,DANDIROM,DINING,mawalih,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-03-22,2026-03-10,undefined,Mazin  Hassan ,,,98,DANDIROM,HOME DECOR,amirat,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to cancel order
+,2026-03-24,2026-03-10,undefined,alraisi business,,,45,DANDIROM,MULTI ROOM,mawalleh,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to cancel order
+,2026-03-25,2026-03-10,undefined,Almuataz Allamki,,,444,DANDIROM,BEDROOM,alkhoud,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-03-26,2026-03-10,undefined,Reem Syed fayyaz,,,432,ALKHWR,LIVING,Ghubrah,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,Customer site not ready
+,2026-03-29,2026-03-10,undefined,Faiz,,,111.92,ALKHWR,BEDROOM,madinat al ilam,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-04-16,2026-03-10,undefined,Almuataz Allamki,,,444,DANDIROM,BEDROOM,khoud,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customr want to cancel order
+,2026-04-30,2026-03-10,undefined,safwan said,,,79,DANDIROM,BEDROOM,Amarat,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-03-15,2026-03-11,undefined,M/s. AL TAMKEEN INTERNATIONAL SCHOOL LLC,,,249,MBLB2C,HOSO,Muscat hills,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-16,2026-03-11,undefined,Owais,,,129,ALKHWR,BEDROOM,AZAIBA,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Due to late
+,2026-03-16,2026-03-11,undefined,Naseem Sinaw Trad & Contracting ,,,90,ALKHWR,HOSO,AZAIBA,17:00-21:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Due to late
+,2026-03-16,2026-03-11,undefined,talal almazrouei,,,450.9,MBLB2C,DINING,Barka,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-03-17,2026-03-11,undefined,DR.MEENA,,,159.6,NIZWA,BEDROOM,NIZWA,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-03-18,2026-03-11,undefined,Naseem Sinaw Trad & Contracting ,,,90,ALKHWR,HOSO,AZAIBA,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-03-24,2026-03-11,undefined,M/s. AL TAMKEEN INTERNATIONAL SCHOOL LLC,,,249,MBLB2C,HOSO,GHALA,09:00-13:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,Customer not answer/Switch off
+,2026-03-24,2026-03-11,undefined,Fatma Raisi,,,103.55,DANDIROM,BEDROOM,Al Azaiba,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer family issue
+,2026-03-25,2026-03-11,undefined,DR.MEENA,,,159.6,NIZWA,BEDROOM,nizwa,09:00-13:00,CONFIRM,SULEMAN,7828,Elite,,,Due to rain
+,2026-03-16,2026-03-12,undefined,Dawood Mohammad,,,175,MBLB2C,BEDROOM,rustaq,13:00-17:00,CONFIRM,SULEMAN,7828,Elite,,,Due to late
+,2026-03-19,2026-03-12,undefined,Zeyad Al Shehhi,,,31.05,DANDIROM,Home Furnishing,AL KHUWAIR,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-03-19,2026-03-12,undefined,Zeyad Al Shehhi,,,36.9,DANDIROM,LIVING,AL KHUWAIR,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-03-22,2026-03-12,undefined,Amirali Salehi,,,80,DANDIROM,BEDROOM,almouj,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-22,2026-03-12,undefined,Aneesaadil  Aneesaadil ,,,252,DANDIROM,HOME DECOR,ansab,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-03-24,2026-03-12,undefined,Axora Kitchens,,,213,MBLB2C,HOSO, MABELLA ,09:00-13:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-03-24,2026-03-12,undefined,فيصل  العجيلي,,,26.6,DANDIROM,HOSO,ansab,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-24,2026-03-12,undefined,salah alwaheibi,,,39.96,DANDIROM,BEDROOM,AL KHUWAIR,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-04-07,2026-03-12,undefined,Axora Kitchens,,,213,MBLB2C,HOSO,MABELLA,13:00-17:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer site not ready
+,2026-04-16,2026-03-12,undefined,Mayilsamy  Lingappan,,,208,ALKHWR,BEDROOM,ruwi,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-16,2026-03-12,undefined,Mayilsamy  Lingappan,,,279,ALKHWR,BEDROOM,ruwi,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-03-19,2026-03-13,undefined,Ismail Alhooti,,,38,DANDIROM,Electrical,Mawalleh,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,wrong contact no
+,2026-03-22,2026-03-13,undefined,Mahmoud  Darwish,,,65,DANDIROM,BEDROOM,hail,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-23,2026-03-13,undefined,Lina AlFarsi ,,,379,DANDIROM,BEDROOM,Al Ansab,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-25,2026-03-13,undefined,rown,,,324,ALKHWR,DINING,Quram,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-03-25,2026-03-13,undefined,rahma alhosni,,,44,DANDIROM,LIVING,Azaiba ,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-04-02,2026-03-13,undefined,Ismail Alhooti,,,38,DANDIROM,Electrical,mawaleh,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer not answer/Switch off
+,2026-04-16,2026-03-13,undefined,Mayilsamy  Lingappan,,,135,ALKHWR,BEDROOM,ruwi,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-03-19,2026-03-14,undefined,abd alaziz,,,26.06,DANDIROM,MULTI ROOM,MAWALLEH,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-03-19,2026-03-14,undefined,Said Aljardani,,,54,DANDIROM,Sanitary,wadi kabir,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-03-22,2026-03-14,undefined,alhasn,,,49,NIZWA,YOUNG BEDROOM,NIZWA,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-03-22,2026-03-14,undefined,Kalim,,,75,ALKHWR,LIVING,AL HAIL,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer not answer/Switch off
+,2026-03-23,2026-03-14,undefined,ESSAM,,,158,SOHR,BEDROOM,sohar-wadi hibi,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Due to rain
+,2026-03-23,2026-03-14,undefined,noha salim,,,100.25,DANDIROM,KIDS,khoud,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-23,2026-03-14,undefined,saud,,,137,MBLB2C,BEDROOM,Amerat,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,wrong location
+,2026-03-25,2026-03-14,undefined,Asma Al mamari,,,39,DANDIROM,YOUNG BEDROOM,Mabellah,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-03-25,2026-03-14,undefined,Zainab Alrahbi,,,67.5,DANDIROM,MULTI ROOM,al hail,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-03-28,2026-03-14,undefined,BADER Alnaabi,,,29.5,DANDIROM,KIDS,amirat,17:00-21:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-03-23,2026-03-15,undefined,BADRIYA,,,79,ALKHWR,BEDROOM,RUSTAQ,17:00-21:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Due to rain
+,2026-03-23,2026-03-15,undefined,MOHAMMED RISHAM,,,129,ALKHWR,BEDROOM,AL KHUWAIR,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-03-24,2026-03-15,undefined,Rosy,,,152,ALKHWR,LIVING,AL KHUWAIR,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-29,2026-03-15,undefined,Haitham  Al shabibi,,,105,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer wants later
+,2026-03-29,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,WAQAR AHMED,4349,Danube,,,Customer wants later
+,2026-03-30,2026-03-15,undefined,mohammed ,,,553.6,NIZWA,BEDROOM,sohar,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-03-30,2026-03-15,undefined,Priyarshi Senarathna,,,59,DANDIROM,LIVING,quram,09:00-13:00,CONFIRM,ABDULLAH,562,Elite,,,Customer wants later
+,2026-04-12,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-04-12,2026-03-15,undefined,Haitham  Al shabibi,,,105,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-04-25,2026-03-15,undefined,Haitham  Al shabibi,,,105,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-04-25,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabila,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-06,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,MABELLA,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-06,2026-03-15,undefined,Haitham  Al shabibi,,,105,DANDIROM,KIDS,MABELLA,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-06-03,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabella,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-21,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabila,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer not answer/Switch off
+,2026-07-30,2026-03-15,undefined,Haitham  Al shabibi,,,51.5,DANDIROM,KIDS,mabila,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-03-22,2026-03-16,undefined,Mahmoud  Darwish,,,65,DANDIROM,BEDROOM,hail,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-22,2026-03-16,undefined,SAMIR MOHAMMAD,,,114,ALKHWR,BEDROOM,AL KHOUD 6,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to change order
+,2026-03-22,2026-03-16,undefined,ghidian Obaidallah,,,31.75,DANDIROM,PURIFIER AND APPLIANCES,hail,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer not answer/Switch off
+,2026-03-23,2026-03-16,undefined,ALI,,,119,MBLB2C,BEDROOM,manumah,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Due to rain
+,2026-03-28,2026-03-16,undefined,TALIB,,,640,MBLB2C,BEDROOM,MAWELLAH ,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-03-29,2026-03-16,undefined,SULTAN,,,328,ALKHWR,GARDEN,barka,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer home Road issue
+,2026-03-30,2026-03-16,undefined,Ahad Alkharusi ,,,36.7,DANDIROM,MULTI ROOM, MABELLA,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to cancel order
+,2026-03-31,2026-03-16,undefined,samah muhmood ,,,124,DANDIROM,YOUNG BEDROOM,BOWSHER,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,Customer wants later
+,2026-04-02,2026-03-16,undefined,Hind ,,,715,SOHR,BEDROOM,SOHAR,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customr want to cancel order
+,2026-04-06,2026-03-16,undefined,TALIB,,,640,MBLB2C,BEDROOM, MAWELLAH,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-04-15,2026-03-16,undefined,TALIB,,,640,MBLB2C,BEDROOM,mawellah,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-03-22,2026-03-17,undefined,khawlah,,,579,MBLB2C,LIVING,Barka,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-03-22,2026-03-17,undefined,khawlah,,,522.75,MBLB2C,BEDROOM,Barka,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-03-23,2026-03-17,undefined,dawood,,,118,MBLB2C,BEDROOM, MABELLA,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customer not available at home
+,2026-03-25,2026-03-17,undefined,MOHAMED IBRAHIM,,,365,SOHR,BEDROOM,suwaiq,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-25,2026-03-17,undefined,Vasanth,,,129,ALKHWR,LIVING,RUWI,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,due to stair issue
+,2026-03-28,2026-03-17,undefined,Suhaib Salim,,,190,SOHR,LIVING,SOHAR,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-03-29,2026-03-17,undefined,khawlah,,,522.75,MBLB2C,BEDROOM,barka,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-03-29,2026-03-17,undefined,khawlah,,,579,MBLB2C,LIVING,barka,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-04-07,2026-03-17,undefined,khawlah,,,579,MBLB2C,LIVING,barka,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-04-07,2026-03-17,undefined,khawlah,,,522.75,MBLB2C,BEDROOM,barka,13:00-17:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-04-18,2026-03-17,undefined,khawlah,,,522.75,MBLB2C,BEDROOM,Barka,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-18,2026-03-17,undefined,khawlah,,,579,MBLB2C,LIVING,Barka,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-03-25,2026-03-18,undefined,Rasha Balushi,,,48,DANDIROM,LIVING,BARKA,09:00-13:00,CONFIRM,MAHMOOD,5845,Elite,,,Customer not answer/Switch off
+,2026-03-26,2026-03-18,undefined,Ali Fahad,,,109,ALKHWR,BEDROOM,Bowsher ,17:00-21:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-03-28,2026-03-18,undefined,Almuhalab,,,299,MBLB2C,BEDROOM,Suwaiq,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to rain
+,2026-03-28,2026-03-18,undefined,عزان الغافري,,,31,DANDIROM,LIVING,bowsher,13:00-17:00,CONFIRM,SAAD SIDDIQ,1492,Elite,,,customer not available at home
+,2026-03-28,2026-03-18,undefined,عزان الغافري,,,149,MBLB2C,LIVING,BAWSHAR,13:00-17:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-03-30,2026-03-18,undefined,Abbas Ali,,,75.05,DANDIROM,LIVING, MABELLA,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customer not available at home
+,2026-04-01,2026-03-18,undefined,Aisha  Hashimi,,,180,DANDIROM,LIVING,ansab,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,material damage
+,2026-03-29,2026-03-19,undefined,RAJESH,,,119,ALKHWR,GARDEN,Ruwi,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-03-30,2026-03-19,undefined,mohammed,,,140,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-03-31,2026-03-19,undefined,MOHAMMED AHMED SAID MAHROUQI,,,389,NIZWA,GARDEN,Bahla,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,wrong location
+,2026-04-01,2026-03-19,undefined,RAJESH,,,119,ALKHWR,GARDEN,Ruwi,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-04-07,2026-03-19,undefined,المنذر  الحجري,,,507.8,DANDIROM,BEDROOM,Bidyah,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-04-15,2026-03-19,undefined,MOHAMMED AHMED SAID MAHROUQI,,,389,NIZWA,GARDEN,mabella,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-19,2026-03-19,undefined,GHALYA,,,381,ALKHWR,DINING,alansab,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-29,2026-03-19,undefined,GHALYA,,,381,ALKHWR,DINING,ansab,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-03-24,2026-03-20,undefined,Shaima Al Rawahi,,,121.35,DANDIROM,House ware,MAWALLEH,09:00-13:00,CONFIRM,SULEMAN,7828,Elite,,,Customer wants later
+,2026-04-19,2026-03-20,undefined,GHALYA,,,270,ALKHWR,LIVING,alansab,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-29,2026-03-20,undefined,GHALYA,,,270,ALKHWR,LIVING,ansab,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-03-31,2026-03-21,undefined,محمد  صلاح عطية,,,13.1,DANDIROM,BEDROOM,khoud,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,customr want to cancel order
+,2026-04-01,2026-03-21,undefined,Khalid Almiyahi,,,147,DANDIROM,BEDROOM,mawalih,09:00-13:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer wants later
+,2026-04-02,2026-03-21,undefined,Rosemarie Lanuza,,,193.25,DANDIROM,BEDROOM,gala,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-04-02,2026-03-21,undefined,Elina  Karimova ,,,35.388,DANDIROM,BEDROOM,bowsher,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Due to size issue
+,2026-03-28,2026-03-22,undefined,MOHSIN HAIDER DARWISH LLC,,,142,ALKHWR,LIVING,SEEB,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-04-04,2026-03-22,undefined,AHMED Al Maashari,,,39,DANDIROM,LIVING,amirat,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customr want to cancel order
+,2026-04-04,2026-03-22,undefined,Ahmed  Mohammed ,,,39,DANDIROM,YOUNG BEDROOM,mawalih,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer not answer/Switch off
+,2026-04-05,2026-03-22,undefined,Abdallah Alzaabi,,,476,DANDIROM,BEDROOM,saham,17:00-21:00,CONFIRM,HUDHAIYFA HAMDAN,1052,Elite,,,Customer not answer/Switch off
+,2026-03-26,2026-03-23,undefined,Mouza Al Busaidi,,,210,DANDIROM,YOUNG BEDROOM,MAWALLEH,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-03-26,2026-03-23,undefined,marwa  Ibrahim ,,,143,DANDIROM,BEDROOM,ANSAB,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-03-29,2026-03-23,undefined,AHMED,,,139,BARKA,GARDEN,barka,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Due to late
+,2026-03-31,2026-03-23,undefined,ABDUAHL,,,128,MBLB2C,YOUNG BEDROOM, MABELLA,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-04-04,2026-03-23,undefined,Ivika Kakko,,,37,DANDIROM,LIVING,aziba,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer not answer/Switch off
+,2026-04-07,2026-03-23,undefined,ABDUAHL,,,128,MBLB2C,YOUNG BEDROOM,khoud,09:00-13:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,customer not available at home
+,2026-04-08,2026-03-23,undefined,marwa  Ibrahim ,,,143,DANDIROM,BEDROOM,ansab,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customr want to cancel order
+,2026-04-15,2026-03-23,undefined,ABDUAHL,,,128,MBLB2C,YOUNG BEDROOM,mabella,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-03-28,2026-03-24,undefined,ميس الامين,,,19.25,DANDIROM,MULTI ROOM,Al khoud,13:00-17:00,CONFIRM,WAQAR AHMED,4349,Danube,,,customr want to cancel order
+,2026-03-28,2026-03-24,undefined,ali Al YAHYAAI,,,46.06,DANDIROM,LIVING,SEEB,17:00-21:00,CONFIRM,WAQAR AHMED,4349,Danube,,,customr want to cancel order
+,2026-04-01,2026-03-24,undefined,Maraj Al Zadjali,,,129,ALKHWR,BEDROOM, AL KHUWAIR ,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer home space/Eletricity issue
+,2026-04-02,2026-03-24,undefined,khalsa salim,,,28.3,DANDIROM,Sanitary,amirat,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customr want to cancel order
+,2026-04-04,2026-03-24,undefined,hamad,,,104,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-04-06,2026-03-24,undefined,mohamed abd alla,,,736,SOHR,BEDROOM,saham,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer home space/Eletricity issue
+,2026-04-19,2026-03-24,undefined,GHALYA,,,578,ALKHWR,LIVING,alansab,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-29,2026-03-24,undefined,GHALYA,,,578,ALKHWR,LIVING,ansab,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-03-29,2026-03-25,undefined,salim,,,166,NIZWA,LIVING,Nizwa,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-29,2026-03-25,undefined,salim,,,65,NIZWA,BEDROOM,Nizwa,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-03-30,2026-03-25,undefined,Abdur Rahman,,,26.001,MBLB2C,HOME DECOR,al khoud,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-03-30,2026-03-25,undefined,Abdur Rahman,,,85,MBLB2C,BEDROOM,al khoud,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-03-30,2026-03-25,undefined,arsalan,,,431,ALKHWR,LIVING,MUTRAH,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to rain
+,2026-04-01,2026-03-25,undefined,Christin  Reinhold,,,52.5,DANDIROM,DINING,aziba,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-04-02,2026-03-25,undefined,Ruqia Abdulrahman,,,37.05,DANDIROM,LIVING,hail,17:00-21:00,CONFIRM,ABDULLAH,562,Elite,,,customer not available at home
+,2026-04-25,2026-03-25,undefined,BASIM SHEK,,,479.2,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer site not ready
+,2026-05-11,2026-03-25,undefined,BASIM SHEK,,,479.2,SOHR,BEDROOM,SOHAR,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-06-16,2026-03-25,undefined,BASIM SHEK,,,479.2,SOHR,BEDROOM,Sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer home space/Eletricity issue
+,2026-03-31,2026-03-26,undefined,aya  soliman,,,126.825,DANDIROM,BEDROOM,ghoubra,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-03-31,2026-03-26,undefined,aya  soliman,,,238.875,DANDIROM,BEDROOM,ghubrah,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-04-01,2026-03-26,undefined,لبنى العبري ,,,42.5,DANDIROM,BEDROOM,RUSTAQ,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-04-05,2026-03-26,undefined,MOHD IMRAN,,,167,ALKHWR,LIVING,ghala,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-04-08,2026-03-26,undefined,Razel Ignacio,,,71.1,DANDIROM,BEDROOM,mawalih,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-04-09,2026-03-26,undefined,لبنى العبري ,,,42.5,DANDIROM,BEDROOM,rustaq,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer home Road issue
+,2026-04-04,2026-03-27,undefined,Sara Al Hajri,,,28.6,DANDIROM,LIVING,quram,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer not answer/Switch off
+,2026-04-09,2026-03-27,undefined,manga mangarika,,,41.325,DANDIROM,HOME DECOR,alhail,17:00-21:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer not answer/Switch off
+,2026-04-09,2026-03-27,undefined,Salim Said,,,57,DANDIROM,LIVING,mawaleh,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-03-31,2026-03-28,undefined,ali alwahaibi  alwahaibi ,,,163,DANDIROM,BEDROOM,khoud,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer home space/Eletricity issue
+,2026-03-31,2026-03-28,undefined,ali alwahaibi  alwahaibi ,,,163,DANDIROM,BEDROOM,khoud,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-04-01,2026-03-28,undefined,salah  alwaheibi,,,39.96,DANDIROM,BEDROOM, BOWSHER,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-04-04,2026-03-28,undefined,RIHAAB,,,145,MBLB2C,BEDROOM,mabila,17:00-21:00,CONFIRM,SULEMAN,7828,Elite,,,customer not available at home
+,2026-04-06,2026-03-28,undefined,MAHAMMED,,,389,NIZWA,BEDROOM,BEHLA,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-07-01,2026-03-28,undefined,ahmed,,,160.651,ALKHWR,Tiles,quram,3:00 - 6:00,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer want to later
+,2026-04-05,2026-03-29,undefined,ahmed,,,152,NIZWA,BEDROOM,NIZWA,09:00-13:00,CONFIRM,AWAIS ALI,146,Danube,,,Customer wants later
+,2026-04-06,2026-03-29,undefined,Salim ,,,229,ALKHWR,LIVING,amerat,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-11,2026-03-29,undefined,manohar p,,,71.375,DANDIROM,YOUNG BEDROOM,wadi khabir,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-04-11,2026-03-29,undefined,Huda Alhasani,,,177.8,DANDIROM,BEDROOM,falaj ash sham,09:00-13:00,CONFIRM,AHMED,5514,Elite,,,customr want to cancel order
+,2026-05-13,2026-03-29,undefined,Abdullah ,,,400.001,MBLB2C,Sanitary,MSQ,2to5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer site not ready
+,2026-04-01,2026-03-30,undefined,Luqman Saeed al balushi,,,170,MBLB2C,BEDROOM,suwaiq,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-04-02,2026-03-30,undefined,آمنه الجابري,,,243.7,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-04-04,2026-03-30,undefined,KHALID BALUSHI,,,182.25,SOHR,HOSO,SOHAR,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-04-11,2026-03-30,undefined,KHALID BALUSHI,,,182.25,SOHR,HOSO,sohar,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-04-11,2026-03-30,undefined,Mohammad  Hilmi ,,,39,DANDIROM,LIVING,khouwair,17:00-21:00,CONFIRM,MAHMOOD,5845,Elite,,,customr want to cancel order
+,2026-04-12,2026-03-30,undefined,تيمور الاخزمي,,,39,DANDIROM,YOUNG BEDROOM,khoud,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-04-13,2026-03-30,undefined,ايوب الرمضاني,,,49,DANDIROM,LIVING,bowsher,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,wrong location
+,2026-04-04,2026-03-31,undefined,Ahmed  Alfori,,,39,DANDIROM,YOUNG BEDROOM,ghubrah,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,wrong location
+,2026-04-13,2026-03-31,undefined,Shaima Al Rawahi,,,111.35,DANDIROM,Sanitary,mawalih,13:00-17:00,CONFIRM,IMAD HUSSAIN,1492,Elite,,,Customer wants later
+,2026-04-30,2026-03-31,undefined,YOUSOF,,,812.95,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-05-13,2026-03-31,undefined,YOUSOF,,,812.95,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer home space/Eletricity issue
+,2026-04-05,2026-03-31,undefined,MASOUD,,,260.001,MBLB2C,DOORS DH,Mabellah,10to1pm,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer not answer the call
+,2026-04-15,2026-04-01,undefined,Ibtihal Al Maqbali  Al Maqbali,,,39,DANDIROM,YOUNG BEDROOM,Al khuwair,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Material issue
+,2026-04-18,2026-04-01,undefined,Mohamed Khalil,,,74,DANDIROM,BEDROOM,Al khuwair,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-04-11,2026-04-02,undefined,Mohammed Al balushi ,,,44.1,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,Customer not answer/Switch off
+,2026-04-11,2026-04-02,undefined,MAZIN,,,763.25,NIZWA,BEDROOM,mabellah,13:00-17:00,CONFIRM,ABDULLAH,562,Elite,,,Customer wants later
+,2026-04-12,2026-04-02,undefined,FATIMA,,,120,SOHR,BEDROOM,Saham,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-04-15,2026-04-02,undefined,Timothy  Muruppel ,,,79,DANDIROM,BEDROOM,ruwi,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-04-16,2026-04-02,undefined,CT WU,,,47,DANDIROM,KIDS,bowsher,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-04-20,2026-04-02,undefined,شذا  اللواتية,,,39,DANDIROM,LIVING,bawsher,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customr want to cancel order
+,2026-04-18,2026-04-03,undefined,سعيد //,,,30,DANDIROM,MULTI ROOM,amirat,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-25,2026-04-03,undefined,ACE,,,807.9,SOHR,BEDROOM,alkhabora,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-04,2026-04-03,undefined,idris,,,593.25,ALKHWR,BEDROOM,barka,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-04-10,2026-04-04,undefined,Saira Mohamed,,,244,ALKHWR,LIVING,seeb,17:00-21:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer wants later
+,2026-04-18,2026-04-04,undefined,سعيد //,,,53.95,DANDIROM,BEDROOM,amirat,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-18,2026-04-04,undefined,سعيد //,,,150,DANDIROM,LIVING,amirat,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-19,2026-04-04,undefined,عبدالعزيز الزدجالي,,,124,DANDIROM,BEDROOM,mabila,13:00-17:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer wants later
+,2026-04-19,2026-04-04,undefined,Khalil,,,710,MBLB2C,YOUNG BEDROOM,sumail,17:00-21:00,CONFIRM,IMAD HUSSAIN,1492,Elite,,,Due to late
+,2026-04-09,2026-04-05,undefined,Shim  Balush,,,39.675,DANDIROM,YOUNG BEDROOM,wadi alkabeer,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,customer not available at home
+,2026-04-14,2026-04-06,undefined,eva,,,129,NIZWA,MULTI ROOM,hamra,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-09,2026-04-07,undefined,SAWSAN,,,694,ALKHWR,BEDROOM,azaiba,17:00-21:00,CONFIRM,AHMED,5514,Elite,,,Due to late
+,2026-04-10,2026-04-07,undefined,Saira Mohamed,,,86,ALKHWR,LIVING,seeb,17:00-21:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer wants later
+,2026-04-13,2026-04-07,undefined,Abdullah  Al shuely,,,98,DANDIROM,LIVING,misfah,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to change order
+,2026-04-20,2026-04-07,undefined,Abdullah  Al Alawi,,,70.8,DANDIROM,BEDROOM,madinat al allm,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-04-23,2026-04-07,undefined,saeed,,,132,SOHR,YOUNG BEDROOM,sohar,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-05-12,2026-04-07,undefined,MUHAMMED KUSAIF,,,462.9,SOHR,BEDROOM,LIWA,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-05-20,2026-04-07,undefined,saeed,,,132,SOHR,YOUNG BEDROOM,sohar,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-04-12,2026-04-08,undefined,Abanikanda Damilola ,,,124.9,DANDIROM,BEDROOM,mawaleh,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to change order
+,2026-04-14,2026-04-08,undefined,eiman,,,276,ALKHWR,LIVING,quriyat,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-04-14,2026-04-08,undefined,mundhir,,,141,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,customr want to change order
+,2026-04-14,2026-04-08,undefined,mundhir,,,361.9,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,customr want to change order
+,2026-04-15,2026-04-08,undefined,Faisal alibi,,,54.5,DANDIROM,KIDS,misfah,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,wrong location
+,2026-04-16,2026-04-08,undefined,Abanikanda Damilola ,,,124.9,DANDIROM,BEDROOM,mawaleh,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customr want to cancel order
+,2026-04-21,2026-04-08,undefined,eiman,,,276,ALKHWR,LIVING,quriyat,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-04-21,2026-04-08,undefined,eiman,,,108.001,ALKHWR,Sanitary,quriyat,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-04-14,2026-04-09,undefined,eva,,,114.3,ALKHWR,Home Furnishing,hamra,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-14,2026-04-09,undefined,lubna  saadi ,,,32.5,DANDIROM,LIVING,ghoubrah,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-09,2026-04-09,undefined,Khaled Alhadrami,,,1765.251,NIZWA,Sanitary,izki,3:00 - 6:00,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer want to later
+,2026-04-16,2026-04-10,undefined,Waleed,,,400,MBLB2C,KIDS,mabila,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-04-16,2026-04-10,undefined,Jabir A,,,3.5,ALKHWR,MULTI ROOM,ruwi,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer Need togather
+,2026-04-21,2026-04-10,undefined,Ammar Alazzani,,,38.56,DANDIROM,MULTI ROOM,quram,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-04-15,2026-04-11,undefined,Badar,,,104,MBLB2C,KIDS,barka,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-04-20,2026-04-11,undefined,NOOF,,,135,SOHR,KIDS,KHABURA,17:00-21:00,CONFIRM,IMAD HUSSAIN,1492,Elite,,,Due to late
+,2026-04-22,2026-04-11,undefined,PRABHAKAR,,,204,ALKHWR,GARDEN,Ghubrah,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to cancel order
+,2026-04-25,2026-04-11,undefined,راضية  محمد ,,,45,DANDIROM,MULTI ROOM,ansab,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-04-18,2026-04-12,undefined,Assad,,,91.5,ALKHWR,HOSO,alamerat,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-05-02,2026-04-13,undefined,ibtisam,,,325.8,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-04-18,2026-04-14,undefined,Aya Samad,,,38.5,DANDIROM,KIDS,hail,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer not answer/Switch off
+,2026-04-21,2026-04-14,undefined,IMRAN ELKINDY,,,289,ALKHWR,DINING,ghala,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,due to stair issue
+,2026-04-21,2026-04-14,undefined,IMRAN ELKINDY,,,286,ALKHWR,LIVING,ghala,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,due to stair issue
+,2026-04-26,2026-04-14,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,amirat,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-04-28,2026-04-14,undefined,samira nasser,,,85,DANDIROM,GARDEN,barka,09:00-13:00,CONFIRM,FARHAN BASHIR,4349,Danube,,,Customer not answer/Switch off
+,2026-04-21,2026-04-15,undefined,Abdullah,,,283,MBLB2C,GARDEN,FANJA,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customer not available at home
+,2026-04-26,2026-04-16,undefined,امال الغافري,,,39,DANDIROM,YOUNG BEDROOM,seeb,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer not answer/Switch off
+,2026-04-26,2026-04-16,undefined,athar moin,,,39,DANDIROM,YOUNG BEDROOM,ghoubra,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customr want to cancel order
+,2026-07-14,2026-04-16,undefined,mosaa,,,1113.889,ALKHWR,FLOORING,ghoubra,3:00 - 6:00,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,Customer house no space 
+,2026-04-20,2026-04-17,undefined,Hamza Boxwala,,,56.05,DANDIROM,LIVING,AL KHUWAIR,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,customer not available at home
+,2026-04-22,2026-04-17,undefined,MOHIUDDIN,,,273,NIZWA,BEDROOM,nizwa,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer home Road issue
+,2026-04-23,2026-04-17,undefined,ALANOUD,,,184,SOHR,BEDROOM,saham,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-04-29,2026-04-17,undefined,mudasar,,,406,ALKHWR,BEDROOM,darsit,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-04-28,2026-04-18,undefined,Ali,,,147,SOHR,KIDS,saham,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-28,2026-04-18,undefined,Abdo Emad,,,26,DANDIROM,LIVING,ghoubra,17:00-21:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer not answer/Switch off
+,2026-05-13,2026-04-18,undefined,Abdullah,,,400.001,MBLB2C,Sanitary,MSQ,2to5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer site not ready
+,2026-04-25,2026-04-19,undefined,Mana Ahmadpour,,,38,DANDIROM,LIVING,Mawaleh,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer home space/Eletricity issue
+,2026-04-26,2026-04-19,undefined,DENNIS,,,145,ALKHWR,BEDROOM,ruwi,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customr want to change order
+,2026-04-27,2026-04-19,undefined,Ethar Alzadjali,,,60,DANDIROM,BEDROOM,barka,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-05-11,2026-04-19,undefined,Anwar Mohammed,,,699,MBLB2C,DINING,MABELLA ,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer wants later
+,2026-04-25,2026-04-20,undefined,KHALID AHMAD,,,131,NIZWA,YOUNG BEDROOM,nizwa,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customer not available at home
+,2026-04-29,2026-04-20,undefined,mudasar,,,68.805,ALKHWR,BEDROOM,darsit,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-16,2026-04-20,undefined,YOUSUF,,,299,BARKA,DINING,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-07-14,2026-04-20,undefined,mosaa,,,22.001,ALKHWR,FLOORING,ghoubra,3:00 - 6:00,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,Customer house no space 
+,2026-07-23,2026-04-20,undefined,ZUWAINA,,,2350.201,ALKHWR,Sanitary,khouwair,3:00 - 6:00,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer site not ready
+,2026-04-25,2026-04-21,undefined,Mana Ahmadpour,,,16,DANDIROM,LIVING,Mawaleh,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer home space/Eletricity issue
+,2026-04-28,2026-04-21,undefined,Ali,,,45,SOHR,KIDS,saham,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-04-29,2026-04-21,undefined,Talal Mohammed ,,,69,DANDIROM,KIDS,mabella,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-04-25,2026-04-22,undefined,AISHA,,,1016.001,MBLB2C,LIVING,AL KHOUD,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-04-29,2026-04-22,undefined,Zaid Almharzi,,,75,SOHR,LIVING,saham,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-04-29,2026-04-22,undefined,SIHEM BOUREZG,,,165,DANDIROM,LIVING,mabella,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-04-30,2026-04-22,undefined,CST,,,79,ALKHWR,GARDEN,ghala,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Material damage
+,2026-04-29,2026-04-23,undefined,Mustafa,,,170.4,SOHR,DINING,alkhabora,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-04-30,2026-04-23,undefined,سعيد سعيد,,,39,DANDIROM,YOUNG BEDROOM,Azaiba,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customr want to change order
+,2026-04-30,2026-04-23,undefined,سعيد سعيد,,,38,DANDIROM,LIVING,Azaiba,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customr want to cancel order
+,2026-05-03,2026-04-23,undefined,Mohammed Al-Kalbani,,,167.9,DANDIROM,LIVING,wattya,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,customr want to cancel order
+,2026-05-03,2026-04-23,undefined,Aliya Almoqbali,,,222,DANDIROM,BEDROOM,khoud,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customr want to cancel order
+,2026-05-13,2026-04-23,undefined,ZAKHARIA,,,699,ALKHWR,DINING,ALSUWAIQ,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-05-16,2026-04-23,undefined,KAAB ALKAABI,,,311.8,SOHR,BEDROOM,Shinas,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer site not ready
+,2026-05-16,2026-04-23,undefined,KAAB ALKAABI,,,209,SOHR,BEDROOM,Shinas,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer site not ready
+,2026-04-29,2026-04-24,undefined,ZAHIR ,,,154,NIZWA,LIVING,nizwa,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customer not available at home
+,2026-05-01,2026-04-25,undefined,roopesh chengakkaran,,,39,DANDIROM,YOUNG BEDROOM,ruwi,09:00-13:00,CONFIRM,MUBASHAR,8622,Danube,,,customr want to cancel order
+,2026-05-01,2026-04-25,undefined,AL KHALIL ,,,165,ALKHWR,BEDROOM,alansab,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-05-05,2026-04-25,undefined,Hajer Al Hashmi,,,370,DANDIROM,YOUNG BEDROOM,khoud,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-05-05,2026-04-25,undefined,Waheed Al anery,,,39,ALKHWR,YOUNG BEDROOM,Jahlut,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-05-06,2026-04-25,undefined,AHMED,,,993,MBLB2C,BEDROOM,barka-Rumais,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-07,2026-04-25,undefined,MOHAMMED AL ABRI,,,33,MBLB2C,YOUNG BEDROOM,ALKHOUD,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,Customer family issue
+,2026-05-07,2026-04-25,undefined,MOHAMMED AL ABRI,,,79,MBLB2C,LIVING,ALKHOUD,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,Customer family issue
+,2026-05-14,2026-04-25,undefined,SALEH SAID ALSAWAFI,,,139,MBLB2C,LIVING,Bawshar,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,wrong location
+,2026-05-31,2026-04-25,undefined,yasser,,,1018,ALKHWR,BEDROOM,GHOBRA,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-06-01,2026-04-25,undefined,Muhmmed al Busaidi,,,467,MBLB2C,BEDROOM,mabella,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer site not ready
+,2026-06-01,2026-04-25,undefined,Muhmmed al Busaidi,,,104,MBLB2C,BEDROOM,mabella,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer site not ready
+,2026-05-05,2026-04-26,undefined,TAHAR SAID,,,246,BARKA,BEDROOM,barka,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer home space/Eletricity issue
+,2026-06-30,2026-04-26,undefined,ghasan,,,699,ALKHWR,DINING, GHOBRA,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-04-30,2026-04-26,undefined,JUMA ASGAR AL BALUSHI,,,160.001,MBLB2C,Sanitary,AMARAT,2TO5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer want to later
+,2026-04-30,2026-04-27,undefined,younes ,,,947.35,MBLB2C,LIVING,BAWSHAR,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,due to stair issue
+,2026-04-30,2026-04-27,undefined,ARIF,,,211,ALKHWR,GARDEN,Al Mussanaa,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,material issue
+,2026-05-06,2026-04-27,undefined,Libin  Nair,,,310,NIZWA,DINING,Al hail,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,due to stair issue
+,2026-05-06,2026-04-27,undefined,حمد سالم ,,,363,NIZWA,BEDROOM,samail,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-05-07,2026-04-27,undefined,hmdan,,,138,SOHR,KIDS,KHABORA,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-05-09,2026-04-27,undefined,Charlene Ruiz,,,64.6,DANDIROM,YOUNG BEDROOM, AL KHUWAIR ,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-05-09,2026-04-27,undefined,Syed Khaise,,,99,DANDIROM,BEDROOM,AL KHUWAIR,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-05-23,2026-04-27,undefined,Charlene Ruiz,,,64.6,DANDIROM,YOUNG BEDROOM, AL KHUWAIR ,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-05-01,2026-04-28,undefined,AISHA,,,432,ALKHWR,DINING,alqurm,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-05-02,2026-04-28,undefined,ASHOWN,,,143,SOHR,BEDROOM,Sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-05-11,2026-04-28,undefined,عبدالعزيز المعولي ,,,26,DANDIROM,LIVING,barka,17:00-21:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late
+,2026-05-11,2026-04-28,undefined,محمد الرشيدي ,,,73,DANDIROM,YOUNG BEDROOM,BARKA,17:00-21:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late
+,2026-05-11,2026-04-28,undefined,Yasir Alryiami,,,35.4,BARKA,HOSO,GHOBRA,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,wrong location
+,2026-05-12,2026-04-28,undefined,Adharsh SL,,,50,DANDIROM,BEDROOM,DARSAYT,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Due to size issue
+,2026-05-31,2026-04-28,undefined,SARAH,,,111,SOHR,BEDROOM,saham,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer site not ready
+,2026-05-03,2026-04-28,undefined,mohamed juma,,,123.193,ALKHWR,Tiles,QURAM,2TO5PM,CONFIRM,WAQAS MUNIR,4945,Danube High-Ups,,,Customer want to later
+,2026-05-03,2026-04-29,undefined,Khalid Alhooti,,,15,DANDIROM,HOSO,Airport height,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Due to wrong location
+,2026-05-06,2026-04-29,undefined,Amna W,,,38,DANDIROM,Electrical,mouj,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,Due to late
+,2026-05-07,2026-04-29,undefined,Taymor,,,93,ALKHWR,LIVING,MABELLA,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-05-07,2026-04-29,undefined,Taymor,,,560,ALKHWR,LIVING,MABELLA,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-05-09,2026-04-29,undefined,Mohammad Al mamri,,,55,MBLB2C,KIDS,AL KHOUD,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Due to vehicle issue
+,2026-05-09,2026-04-29,undefined,Victoria,,,129,ALKHWR,BEDROOM,M S Q,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer home space/Eletricity issue
+,2026-05-10,2026-04-29,undefined,Amna W,,,38,DANDIROM,Electrical,Al mouj,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-05-09,2026-04-30,undefined,Rifazul Islam,,,29.3,DANDIROM,MULTI ROOM,mawalleh,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Due to vehicle issue
+,2026-05-12,2026-04-30,undefined,Rifazul Islam,,,29.3,DANDIROM,MULTI ROOM,MAWALLEH,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer/Switch off
+,2026-05-30,2026-04-30,undefined,Ali,,,237.75,BARKA,BEDROOM,Rustaq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-06-01,2026-04-30,undefined,ARSAN ,,,113,ALKHWR,BEDROOM,aziba,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-06-13,2026-04-30,undefined,Ali,,,237.75,BARKA,BEDROOM,Rustaq,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to late
+,2026-06-30,2026-04-30,undefined,HAMAD AL SUBHI,,,1867,MBLB2C,LIVING,NAKHAL,09:00-13:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,Customer site not ready
+,2026-06-11,2026-04-30,undefined,Ali,,,146.001,MBLB2C,Sanitary,Rumays,10to12:30PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer site not ready
+,2026-05-05,2026-05-01,undefined,younus,,,18.5,MBLB2C,LIVING,MABELLA,09:00-13:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-05,2026-05-01,undefined,younus,,,99,MBLB2C,LIVING,MABELLA,09:00-13:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-09,2026-05-01,undefined,JAMIL,,,49,ALKHWR,YOUNG BEDROOM,GHOBRA,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customr want to change order
+,2026-05-11,2026-05-01,undefined,Mohamed ,,,544.4,ALKHWR,LIVING,BOWSHER,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer wants later
+,2026-05-13,2026-05-01,undefined,Maryam Alamouri ,,,37.15,DANDIROM,LIVING,mawalleh,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customr want to cancel order
+,2026-05-07,2026-05-02,undefined,hmdan,,,84,SOHR,BEDROOM,KHABORA,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-05-09,2026-05-02,undefined,Redha Alajmi,,,143,ALKHWR,LIVING,BOWSHER,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,due to stair issue
+,2026-05-06,2026-05-02,undefined,AHMED,,,199.001,ALKHWR,Sanitary,BOWSHAR,2TO5PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-05-09,2026-05-03,undefined,abdul aziz,,,79,MBLB2C,BEDROOM,khoud,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Due to vehicle issue
+,2026-05-12,2026-05-03,undefined,SUAD MOHAMMED ,,,99,ALKHWR,BEDROOM,alamrat,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer home space/Eletricity issue
+,2026-05-12,2026-05-03,undefined,Mohamed Alnuaaimi,,,55,DANDIROM,DINING,Seeb,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customr want to change order
+,2026-05-12,2026-05-03,undefined,ABDULLAH,,,334,MBLB2C,LIVING,MAWELLAH,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Due to late
+,2026-05-12,2026-05-03,undefined,RAHIL KHAN,,,80,ALKHWR,LIVING,alghubra,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Due to late
+,2026-05-13,2026-05-03,undefined,Ahmed Osman,,,269,DANDIROM,GARDEN,Barka,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Customer not answer/Switch off
+,2026-05-13,2026-05-03,undefined,Shefaa Albalushi,,,11,DANDIROM,MULTI ROOM,MABELLA,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer not answer/Switch off
+,2026-05-19,2026-05-03,undefined,ahmaed,,,580,SOHR,LIVING,sohar,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-05-21,2026-05-03,undefined,Mohamed Alnuaaimi,,,55,DANDIROM,DINING,AL KHOUD,09:00-13:00,CONFIRM,FEROJ,4349,Danube,,,customr want to change order
+,2026-05-26,2026-05-03,undefined,Shefaa Albalushi,,,11,DANDIROM,MULTI ROOM,Al Maabilah,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer not answer/Switch off
+,2026-05-07,2026-05-04,undefined,Said  Alkalbani,,,216,DANDIROM,BEDROOM,Mabellah,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer home space/Eletricity issue
+,2026-05-13,2026-05-04,undefined,SALEM AL AMRI,,,322.2,MBLB2C,YOUNG BEDROOM,seeb,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer home Road issue
+,2026-05-13,2026-05-04,undefined,asgan,,,314,ALKHWR,LIVING,QURAM,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-05-16,2026-05-04,undefined,Mohammed Alsubhi,,,72,MBLB2C,YOUNG BEDROOM,nizwa,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-05-16,2026-05-04,undefined,Mohammed Alsubhi,,,249,MBLB2C,BEDROOM,nizwa,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-05-19,2026-05-04,undefined,Said  Alkalbani,,,216,DANDIROM,BEDROOM,Mabellah,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,customr want to cancel order
+,2026-07-11,2026-05-04,undefined,ASAAD SAID,,,198,ALKHWR,BEDROOM,mabila,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-05-09,2026-05-05,undefined,AHMEED,,,127,BARKA,BEDROOM,Muladah,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-05-10,2026-05-05,undefined,sharifah albalooshi,,,21.25,DANDIROM,LIVING, Al-Amirat,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-05-10,2026-05-05,undefined,AMEENA SALAM,,,155,SOHR,BEDROOM,Saham,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-05-10,2026-05-05,undefined,AMEENA SALAM,,,103.4,SOHR,YOUNG BEDROOM,Saham,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-05-13,2026-05-05,undefined,haithem,,,52,ALKHWR,HOSO,Azaiba,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-05-13,2026-05-05,undefined,ALI,,,58,MBLB2C,GARDEN,MABELLA,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-05-13,2026-05-05,undefined,ALI,,,253.805,MBLB2C,YOUNG BEDROOM,MABELLA,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-05-14,2026-05-05,undefined,Ashraf Hussain,,,163,ALKHWR,BEDROOM,ruwi,17:00-21:00,CONFIRM,Mahmood talib,7828,Elite,,,customer not available at home
+,2026-06-01,2026-05-05,undefined,NARJIS,,,518,SOHR,GARDEN,sawaiq,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-06-06,2026-05-05,undefined,Alla Al-Busaidi,,,284,DANDIROM,KIDS,Falaj as sham,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer not answer/Switch off
+,2026-06-08,2026-05-05,undefined,NARJIS,,,518,SOHR,GARDEN,sawaiq,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-05-10,2026-05-06,undefined,Dr. Omar Kandil,,,44.05,DANDIROM,HOSO,BARKA,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Due to wrong location
+,2026-05-17,2026-05-06,undefined,nour husseinn,,,29.5,DANDIROM,KIDS,BOWSHER,13:00-17:00,CONFIRMED,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-05-17,2026-05-06,undefined,Kerry Oman SPC,,,306,SOHR,HOSO,sohar,13:00-17:00,CONFIRMED,HILAL,2757,Elite,,,customer not available at home
+,2026-05-19,2026-05-06,undefined,عماد التمتمي,,,127,DANDIROM,BEDROOM,aziba,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-05-20,2026-05-06,undefined,صفا البلوشي,,,98,DANDIROM,MULTI ROOM,mabella,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-05-24,2026-05-06,undefined,nour husseinn,,,29.5,DANDIROM,KIDS,BOWSHER,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-05-24,2026-05-06,undefined,Salah,,,341,MBLB2C,BEDROOM,mabella,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-07-14,2026-05-06,undefined,mosaa,,,34.692,ALKHWR,FLOORING,ghoubra,3:00 - 6:00,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,Customer house no space 
+,2026-05-10,2026-05-07,undefined,Dr. Omar Kandil,,,52,DANDIROM,BEDROOM,BARKA,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,Due to wrong location
+,2026-05-12,2026-05-07,undefined,Zain Baig,,,34.2,DANDIROM,LIVING,ALQURM,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-05-14,2026-05-07,undefined,HAMAD,,,123,MBLB2C,BEDROOM,MABELLA ,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to late
+,2026-05-16,2026-05-07,undefined,TAHA AL BALUSHI,,,184,MBLB2C,KIDS,barka,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer site not ready
+,2026-05-16,2026-05-07,undefined,SAIF,,,500.5,NIZWA,BEDROOM,ADAM,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer home space/Eletricity issue
+,2026-05-17,2026-05-07,undefined,SULTAN,,,225,ALKHWR,GARDEN,Bowshar,17:00-21:00,CONFIRMED,AMMAR YOUSAF,1164,Danube,,,Due to late
+,2026-05-24,2026-05-07,undefined,TAHA AL BALUSHI,,,184,MBLB2C,KIDS,barka,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-12,2026-05-08,undefined,waleed Albalushi,,,118,DANDIROM,BEDROOM,Mawalleh,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-05-13,2026-05-08,undefined,Ali Abdullah ,,,68,BARKA,BEDROOM,mussanah,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to size issue
+,2026-05-18,2026-05-08,undefined,Umair Arif,,,50.4,DANDIROM,LIVING,M S Q,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-05-21,2026-05-08,undefined,waleed Albalushi,,,118,DANDIROM,BEDROOM,MAWELLAH,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-05-13,2026-05-09,undefined,Talib,,,212,BARKA,LIVING,mussanah,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,due to stair issue
+,2026-05-13,2026-05-09,undefined,KHABAT AL QADAN SANDS COMPANY (SAID AL KHAMISI),,,308.513,MBLB2C,HOME DECOR,Barka,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Material issue
+,2026-05-21,2026-05-09,undefined,Safiya  Al Balushi ,,,50.1,DANDIROM,BEDROOM,seeb,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,Due to late
+,2026-05-26,2026-05-09,undefined,Talal Marquise,,,70,DANDIROM,LIVING,bowsher,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-06-10,2026-05-09,undefined,Talal Marquise,,,70,DANDIROM,LIVING,bowsher,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-15,2026-05-10,undefined,waeel,,,109,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer wants later
+,2026-05-16,2026-05-10,undefined,Ahmed Almagarbi,,,36.9,DANDIROM,HOSO,AL AMERAT,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-05-20,2026-05-10,undefined,مجاهد الضنكي,,,164.5,DANDIROM,BEDROOM,AL AMERAT,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer Cash issue
+,2026-05-23,2026-05-10,undefined,Obaid Alharthi,,,120,DANDIROM,KIDS,amirat,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Due to late
+,2026-05-25,2026-05-10,undefined,MOHAMMED JAMEEL,,,583,ALKHWR,LIVING,GHOBRA,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-05-25,2026-05-10,undefined,MOHAMMED JAMEEL,,,28.9,ALKHWR,Rugs,GHOBRA,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-06-03,2026-05-10,undefined,مجاهد الضنكي,,,164.5,DANDIROM,BEDROOM,AL AMERAT,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customr want to change order
+,2026-05-17,2026-05-11,undefined,SULTAN,,,149,ALKHWR,GARDEN,Bowshar,17:00-21:00,CONFIRMED,AMMAR YOUSAF,1164,Danube,,,Due to late
+,2026-05-17,2026-05-11,undefined,AL MEDRAR CONSTRUCTIONS LLC,,,1081.56,MBLB2C,GARDEN,Aaziba,13:00-17:00,CONFIRMED,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-05-18,2026-05-11,undefined,Maher,,,196,MBLB2C,MULTI ROOM,mabella,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-23,2026-05-11,undefined,Binshah,,,272.79,ALKHWR,BEDROOM,wadi kabir,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-05-24,2026-05-11,undefined,sabra hafidh,,,130.1,DANDIROM,LIVING,Al Amarat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-05-19,2026-05-12,undefined,sunil,,,149,ALKHWR,DINING,GHOBRA,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,material damage no stock
+,2026-05-20,2026-05-12,undefined,Ifada Al Ghaithi,,,69,ALKHWR,LIVING,AL Ansab,17:00-21:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Due to late
+,2026-05-24,2026-05-12,undefined,Hamad,,,289,ALKHWR,LIVING,Al Rustaq,09:00-13:00,CONFIRM,AWAIS ALI,146,Danube,,,wrong location
+,2026-05-24,2026-05-12,undefined,asdasda sdasdasd,,,167,DANDIROM,BEDROOM,falaj asham,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer not answer/Switch off
+,2026-06-01,2026-05-12,undefined,فاروق  الدرب ,,,129,DANDIROM,BEDROOM,Al Ansab,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-05-18,2026-05-13,undefined,Mohammed Abdulah Al Mamari,,,111,SOHR,BEDROOM, SOHAR ,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-05-19,2026-05-13,undefined,waheed   Hammad,,,59,DANDIROM,LIVING,manumah,17:00-21:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer home space/Eletricity issue
+,2026-05-21,2026-05-13,undefined,Safiya  Al Balushi ,,,88,DANDIROM,MULTI ROOM,seeb,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,Due to late
+,2026-05-25,2026-05-13,undefined,Royal Hospital ,,,140,DANDIROM,YOUNG BEDROOM,bowsher,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-05-23,2026-05-14,undefined,mahsa naseri,,,26,DANDIROM,LIVING,aziba,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-05-23,2026-05-14,undefined,Muhammad Nasir,,,38.15,DANDIROM,BEDROOM,darsyat,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to size issue
+,2026-06-06,2026-05-14,undefined,mahsa naseri,,,26,DANDIROM,LIVING,aziba,17:00-21:00,CONFIRMED,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-05-20,2026-05-15,undefined,SUHAIL,,,109.5,MBLB2C,YOUNG BEDROOM,SEEB,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late
+,2026-05-21,2026-05-15,undefined,MALIK AL KINDI,,,111,ALKHWR,GARDEN,AL ANSAB ,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-21,2026-05-15,undefined,FAHED,,,720.22,ALKHWR,YOUNG BEDROOM,MABELLA,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-05-23,2026-05-15,undefined,Huda,,,260,ALKHWR,YOUNG BEDROOM,AL AMERAT,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Due to late
+,2026-05-23,2026-05-15,undefined,Huda,,,53,ALKHWR,BEDROOM,AL AMERAT,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Due to late
+,2026-05-25,2026-05-15,undefined,Reem al araime,,,79,DANDIROM,BEDROOM,mabila,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-30,2026-05-15,undefined,اليقظان الفلاحي الفلاحي,,,26.06,DANDIROM,LIVING,ghoubra,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer wants later
+,2026-05-30,2026-05-15,undefined,ghidian Obaidallah,,,34.6,DANDIROM,HOME DECOR,khoud,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer not answer/Switch off
+,2026-06-02,2026-05-15,undefined,FAHED,,,720.22,ALKHWR,YOUNG BEDROOM,MABELLA,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-06-09,2026-05-15,undefined,Reem al araime,,,79,DANDIROM,BEDROOM,mabila,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-06-13,2026-05-15,undefined,FAHED,,,720.22,ALKHWR,YOUNG BEDROOM,MABELLA,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer site not ready
+,2026-05-23,2026-05-16,undefined,SAMEER,,,371,ALKHWR,KIDS, al mouj,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer wants later
+,2026-05-26,2026-05-16,undefined,Ghada G,,,51,DANDIROM,MULTI ROOM,seeb,13:00-17:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-06-10,2026-05-16,undefined,Ghada G,,,51,DANDIROM,MULTI ROOM,seeb,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-05-23,2026-05-17,undefined,MOHAMED,,,139,SOHR,LIVING,SOHAR,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-05-24,2026-05-17,undefined,AHMED,,,128.4,SOHR,BEDROOM,ALSUWAIQ,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer family issue
+,2026-05-25,2026-05-17,undefined,Khalid Alrawahi,,,342,DANDIROM,LIVING,musinnah,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Due to late
+,2026-05-25,2026-05-17,undefined,MOHAMMED ISMAIL,,,100,ALKHWR,KIDS,mabila,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,customr want to cancel order
+,2026-05-25,2026-05-17,undefined,OMER,,,252,ALKHWR,LIVING,ghoubra,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customr want to cancel order
+,2026-05-30,2026-05-17,undefined,ebrahem,,,207,ALKHWR,BEDROOM,AL AMERAT,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-05-30,2026-05-17,undefined,ebrahem,,,162,ALKHWR,BEDROOM,AL AMERAT,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-05-31,2026-05-17,undefined,magad,,,783,SOHR,BEDROOM,SAHAM,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,wrong contact no
+,2026-05-31,2026-05-17,undefined,magad,,,104,SOHR,BEDROOM,SAHAM,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,wrong contact no
+,2026-05-31,2026-05-17,undefined,Elahe eslami,,,55,DANDIROM,LIVING,Mabellah,09:00-13:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-05-22,2026-05-18,undefined,MASOOD,,,129,ALKHWR,YOUNG BEDROOM,AL KHOUD,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Material color issue
+,2026-06-11,2026-05-18,undefined,Ibrahim ,,,496,ALKHWR,BEDROOM,AL AMERAT,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,wrong contact no
+,2026-06-17,2026-05-18,undefined,ABDULLAH,,,72.9,SOHR,Rugs,SOHAR,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-06-17,2026-05-18,undefined,ABDULLAH,,,599,SOHR,LIVING,SOHAR,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-06-22,2026-05-18,undefined,HAMAD,,,205.001,NIZWA,Sanitary,GHUBRAH,03TO6PM,CONFIRM,FAISAL,5923,Danube High-Ups,,,wrong location
+,2026-05-26,2026-05-19,undefined,MAHMOUD,,,110,SOHR,GARDEN,MABELLA,17:00-21:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customer not available at home
+,2026-05-30,2026-05-19,undefined,UMM HUDAIFA,,,187.8,MBLB2C,KIDS,mawalleh,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-06-01,2026-05-19,undefined,khalsa  al maamari,,,152.9,DANDIROM,BEDROOM,mabila,17:00-21:00,CONFIRM,FEROJ,4349,Danube,,,customr want to change order
+,2026-06-02,2026-05-19,undefined,Ali Al harthy,,,738,ALKHWR,BEDROOM,musannah,09:00-13:00,CONFIRM,IFTIKHAR,432,Danube,,,wrong contact no
+,2026-05-25,2026-05-20,undefined,Sulaiman,,,242,ALKHWR,LIVING,mabila,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-05-25,2026-05-20,undefined,abdullah,,,255,ALKHWR,LIVING,bowsher,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-05-26,2026-05-20,undefined,Sheik Raja,,,55,ALKHWR,LIVING,wadi khabir,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to change order
+,2026-05-31,2026-05-20,undefined,abdullah,,,255,ALKHWR,LIVING,Bowshar,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-06-01,2026-05-20,undefined,Muhmmed al Busaidi,,,133,MBLB2C,BEDROOM,mabila,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,Customer site not ready
+,2026-06-01,2026-05-20,undefined,G Alcaraz,,,28.75,DANDIROM,BEDROOM,ALKHUOD,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-05-29,2026-05-21,undefined,Yousuf Al Wahuibi,,,107,ALKHWR,BEDROOM, SIDAB ,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer home space/Eletricity issue
+,2026-05-29,2026-05-21,undefined,KHALFAN,,,131,MBLB2C,DINING,mabella,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-06-18,2026-05-21,undefined,mazin,,,139,SOHR,BEDROOM,sohar,17:00-21:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer home space/Eletricity issue
+,2026-06-20,2026-05-21,undefined,afrah,,,177.72,SOHR,BEDROOM,mabila,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-05-25,2026-05-22,undefined,Royal Hospital ,,,269,ALKHWR,YOUNG BEDROOM,bowsher,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-05-29,2026-05-22,undefined,Lee,,,201,ALKHWR,BEDROOM,AZAIBA,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-06-04,2026-05-22,undefined,وليد سالم سعيد البوصافي  البوصافي ,,,71.25,DANDIROM,HOSO,Amerat,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer not answer/Switch off
+,2026-06-14,2026-05-22,undefined,وليد سالم سعيد البوصافي  البوصافي ,,,71.25,DANDIROM,HOSO,amirat,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,Customer not answer/Switch off
+,2026-05-24,2026-05-23,undefined,RAHMA,,,501.001,SOHR,DINING,saham,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,Customer site not ready
+,2026-06-02,2026-05-23,undefined,Michelle Guimalan,,,39,DANDIROM,DINING,Mabellah,09:00-13:00,CONFIRM,FEROJ,4349,Danube,,,customer not available at home
+,2026-06-03,2026-05-23,undefined,turki Alaamri,,,123,DANDIROM,LIVING,mabella,17:00-21:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customer not available at home
+,2026-06-06,2026-05-23,undefined,Habeeb Ck,,,34,DANDIROM,MULTI ROOM,wadi khabir,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-06-10,2026-05-23,undefined,ZAHRAN,,,139,ALKHWR,BEDROOM,BOWSHER,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-06-15,2026-05-23,undefined,turki Alaamri,,,123,DANDIROM,LIVING,mabella,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-06-15,2026-05-23,undefined,KHALID,,,124,SOHR,LIVING,SAHAM,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-06-18,2026-05-23,undefined,Habeeb Ck,,,34,DANDIROM,MULTI ROOM,wadi kabir,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-02,2026-05-24,undefined,IBRAHIM SUILMAN,,,839.5,ALKHWR,MULTI ROOM,AL KHOUD,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer site not ready
+,2026-06-06,2026-05-24,undefined,AHMED,,,605,SOHR,LIVING,sohar,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,Customer wants later
+,2026-06-07,2026-05-24,undefined,gazal al,,,102,DANDIROM,BEDROOM,khoud,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-06-07,2026-05-24,undefined,Abdullah Alzdjali,,,126,DANDIROM,YOUNG BEDROOM,Amarat,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-06-22,2026-05-24,undefined,AHMED,,,605,SOHR,LIVING,sohar,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-06-01,2026-05-24,undefined,SALIM ALMAMARI,,,208.001,SOHR,Sanitary,SAHAM,2TO5PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customr want to change order
+,2026-05-26,2026-05-25,undefined,Masoud,,,690.06,NIZWA,BEDROOM,IZKI,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Due to SIze issue
+,2026-06-01,2026-05-25,undefined,SHTHLAA,,,379,SOHR,DINING,SAHAM ,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Due to late
+,2026-06-01,2026-05-25,undefined,هالة  فنينة,,,234,MBLB2C,LIVING,Al khoud,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,due to stair issue
+,2026-06-04,2026-05-25,undefined,Afrah Al Hosni,,,28.4,DANDIROM,LIVING,barka,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-06-08,2026-05-25,undefined,مريم السنيدي,,,200.4,DANDIROM,BEDROOM,Mabellah,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-06-09,2026-05-25,undefined,ايمان عبدالله ,,,95,DANDIROM,BEDROOM,barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-06-09,2026-05-25,undefined,shaikha j,,,124,DANDIROM,BEDROOM,mabila,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-06-14,2026-05-25,undefined,Afrah Al Hosni,,,28.4,DANDIROM,LIVING,barka,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-06-06,2026-05-26,undefined,Yousuf,,,125,ALKHWR,BEDROOM,AL AMERAT,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-06-10,2026-05-27,undefined,Ibrahim  Alaamri,,,79,DANDIROM,BEDROOM,seeb,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-06-10,2026-05-27,undefined,Amatallah Alhajji,,,35.1,DANDIROM,BEDROOM,mouj,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customr want to cancel order
+,2026-06-25,2026-05-27,undefined,Ibrahim  Alaamri,,,79,DANDIROM,BEDROOM,khoud,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-06-06,2026-05-29,undefined,vikrant kumar,,,33.95,DANDIROM,HOSO,wadi khabir,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-06-03,2026-05-30,undefined,Ameer Alharthi ,,,36,DANDIROM,LIVING,Mabellah,13:00-17:00,CONFIRM,IFTIKHAR,432,Danube,,,customer not available at home
+,2026-06-04,2026-05-30,undefined,yazan,,,270,MBLB2C,BEDROOM,mabella,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer not answer/Switch off
+,2026-06-06,2026-05-30,undefined,Ahmed Al AMari,,,446,ALKHWR,LIVING,Ansab,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,wrong contact no
+,2026-06-14,2026-05-30,undefined,Yousuf  Al Sharji ,,,29.3,DANDIROM,HOSO,khouwair,13:00-17:00,CONFIRM,MUBASHAR,8622,Danube,,,Material issue
+,2026-06-14,2026-05-30,undefined,سمير البلوشي,,,62.8,DANDIROM,HOSO,mawalih,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customr want to cancel order
+,2026-07-15,2026-05-30,undefined,NADEEM AL BALUSHI,,,317,ALKHWR,BEDROOM,AL AMERAT ,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer wants later
+,2026-06-10,2026-05-31,undefined,BADUR AL MAWALI,,,129,MBLB2C,BEDROOM,BARKA,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-06-11,2026-05-31,undefined,Ibrahim,,,69,ALKHWR,BEDROOM,AL AMERAT,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,wrong contact no
+,2026-06-15,2026-05-31,undefined,طالب الغزالي ,,,85,DANDIROM,BEDROOM,bowsher,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-06-16,2026-05-31,undefined,Hamed Albalushi,,,367,DANDIROM,LIVING,amirat,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-07-13,2026-05-31,undefined,OMAR,,,454,ALKHWR,BEDROOM,khoud,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-07-20,2026-05-31,undefined,Abdula,,,917.25,MBLB2C,LIVING,mattrah,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,wrong location
+,2026-06-25,2026-05-31,undefined,azzaan,,,963.4,MBLB2C,Sanitary,ansab,3:00 to 6:00,CONFIRM,FAISAL,5923,Danube High-Ups,,,Customer want to later
+,2026-06-07,2026-06-01,undefined,badr hilal,,,104,ALKHWR,BEDROOM,fanja,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Material size issue
+,2026-06-08,2026-06-01,undefined,Saif Al shibli,,,84.4,ALKHWR,LIVING,Amarat,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customer not available at home
+,2026-06-09,2026-06-01,undefined,Praveen  S Nair,,,217,ALKHWR,BEDROOM,ruwi,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Due to late
+,2026-06-17,2026-06-01,undefined,-,,,197,DANDIROM,BEDROOM,hail,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-06-18,2026-06-01,undefined,أحمد  الريامي ,,,53,DANDIROM,BEDROOM,aziba,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Material size issue
+,2026-06-18,2026-06-01,undefined,Ranim Lababidi,,,39,DANDIROM,BEDROOM,AL KUWAIR,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customer not available at home
+,2026-06-09,2026-06-02,undefined,sulaiman,,,115,SOHR,BEDROOM,kabourah,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Due to size issue
+,2026-06-14,2026-06-03,undefined,Hilal Al Ghefeili,,,109.5,MBLB2C,HOSO,Alkhoud 6,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,customer not available at home
+,2026-06-17,2026-06-03,undefined,Hilal Al Ghefeili,,,109.5,MBLB2C,HOSO,Al khoud,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-06-17,2026-06-03,undefined,Hilal Al Ghefeili,,,109.5,MBLB2C,HOSO,Al khoud,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-06-20,2026-06-03,undefined,Yasmine Sallam,,,26,DANDIROM,LIVING,BOWSHER,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer not answer/Switch off
+,2026-06-21,2026-06-03,undefined,Mohamed  Alnuaaimi,,,79.8,DANDIROM,DINING,MABELLA,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-30,2026-06-03,undefined,INTER DESERT TRANSPORT & TRADE,,,1039,MBLB2C,DINING,Mabellah,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-06-08,2026-06-04,undefined,Hanan Ali,,,19,DANDIROM,LIVING,Al khuwair,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,customer not available at home
+,2026-06-08,2026-06-04,undefined,Furqan  Al Rehmani ,,,32,DANDIROM,DINING,Muttrah,17:00-21:00,CONFIRM,Mahmood talib,7828,Elite,,,customr want to cancel order
+,2026-06-08,2026-06-04,undefined,Khalid,,,68,MBLB2C,BEDROOM,Mabellah ,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-06-08,2026-06-04,undefined,Khalid,,,148.4,MBLB2C,BEDROOM,Mabellah ,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-06-08,2026-06-04,undefined,محمد التوبي ,,,129,NIZWA,DINING,MANAH ,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-06-09,2026-06-04,undefined,Israa Al falahi,,,221,ALKHWR,BEDROOM,khoud,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-06-09,2026-06-04,undefined,Asal,,,203,SOHR,BEDROOM,Rustaq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,wrong contact no
+,2026-06-09,2026-06-04,undefined,Asal,,,124,SOHR,BEDROOM,Rustaq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,wrong contact no
+,2026-06-09,2026-06-04,undefined,NAIF AL OMAIRI,,,127.25,ALKHWR,GARDEN,bowsher,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customer not available at home
+,2026-06-27,2026-06-04,undefined,Asal,,,124,SOHR,BEDROOM,Rustaq,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-06-27,2026-06-04,undefined,Asal,,,203,SOHR,BEDROOM,Rustaq,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-06-08,2026-06-04,undefined,Asal,,,96.501,SOHR,Sanitary,RUSTAQ,10TO12:30PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer not answer the call
+,2026-06-08,2026-06-04,undefined,Asal,,,40.601,SOHR,Sanitary,RUSTAQ,10TO12:30PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer not answer the call
+,2026-06-09,2026-06-05,undefined,Mohamed Al Wadhahi,,,195,MBLB2C,YOUNG BEDROOM,Mabellah,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-06-11,2026-06-05,undefined,Loay,,,428,MBLB2C,LIVING,Mabellah,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,due to stair issue
+,2026-06-15,2026-06-05,undefined,Qais sultan,,,110,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-16,2026-06-05,undefined,Sujeevan Sivagnanam,,,622.6,ALKHWR,LIVING,AZAIBA,09:00-13:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer wants later
+,2026-06-18,2026-06-05,undefined,Thomas  Lukose ,,,22,DANDIROM,LIVING,Darsait,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-06-20,2026-06-05,undefined,Faisal Al farsi,,,78,ALKHWR,YOUNG BEDROOM,bowsher,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-06-21,2026-06-05,undefined,osama albalushi,,,49,DANDIROM,HOSO,hail,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-06-09,2026-06-06,undefined,Mohamed Al Wadhahi,,,48,MBLB2C,BEDROOM,Mabellah,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-06-12,2026-06-06,undefined,MOHAMED ABDULLAH SULIEMAN,,,87,MBLB2C,BEDROOM,AL KHOUD,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer family issue
+,2026-06-14,2026-06-06,undefined,Mohmmed,,,351,SOHR,LIVING,SAHAM,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to late
+,2026-06-22,2026-06-06,undefined,ميعاد البلوشية,,,17,DANDIROM,LIVING,hail,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-06-24,2026-06-06,undefined,صالح سالم,,,51.35,DANDIROM,BEDROOM,ansab,17:00-21:00,CONFIRM,Mahmood talib,7828,Elite,,,customr want to cancel order
+,2026-07-04,2026-06-06,undefined,ABD ALJALIIL,,,179,SOHR,DINING,saham,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,customer not available at home
+,2026-07-18,2026-06-06,undefined,ABD ALJALIIL,,,179,SOHR,DINING,SAHAM,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-06-13,2026-06-07,undefined,abdul aziz,,,169,BARKA,LIVING, RUSTAQ,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to late
+,2026-06-13,2026-06-07,undefined,Osama,,,59,BARKA,YOUNG BEDROOM,rustaq,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,Due to late
+,2026-06-14,2026-06-07,undefined,WISAL,,,81.75,MBLB2C,DINING,barka,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-06-18,2026-06-07,undefined,Rahma Abdullah,,,131,DANDIROM,BEDROOM,mawalih,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-06-24,2026-06-07,undefined,nabulya edrine monicah,,,45,DANDIROM,BEDROOM,mawalih,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,customr want to cancel order
+,2026-08-02,2026-06-07,undefined,SAUD ALRASHDI,,,249,SOHR,DINING,sohar,13:00-17:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-08-18,2026-06-07,undefined,SAUD ALRASHDI,,,249,SOHR,DINING,sohar,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-06-15,2026-06-08,undefined,moahmmed,,,130,SOHR,LIVING,sohar,17:00-21:00,CONFIRM,MUBASHAR,8622,Danube,,,Due to late
+,2026-06-22,2026-06-08,undefined,Sara Ali,,,49,DANDIROM,YOUNG BEDROOM,bowsher,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,wrong location
+,2026-06-30,2026-06-08,undefined,Nooh Said,,,158,MBLB2C,BEDROOM,Barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-06-30,2026-06-08,undefined,Nooh Said,,,520,MBLB2C,BEDROOM,Barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-07-06,2026-06-08,undefined,Mohammed khamis,,,789,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-07-18,2026-06-08,undefined,mashal,,,684.9,ALKHWR,BEDROOM,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-30,2026-06-08,undefined,Nooh Said,,,520,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-30,2026-06-08,undefined,Nooh Said,,,158,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-06-15,2026-06-09,undefined,sajeeb,,,156.6,ALKHWR,LIVING,musanna,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,7297,Danube,,,customer not available at home
+,2026-06-20,2026-06-09,undefined,Omani Packinging  Co,,,133.95,DANDIROM,HOSO,Rusayl,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer/Switch off
+,2026-06-27,2026-06-09,undefined,سعيد  الصلتي ,,,77,DANDIROM,PURIFIER AND APPLIANCES,AL AMERAT,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer not answer/Switch off
+,2026-07-20,2026-06-09,undefined,sajeeb,,,156.6,ALKHWR,LIVING,musinnah,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Customer wants later
+,2026-06-16,2026-06-10,undefined,ammer,,,243,NIZWA,BEDROOM,bahla,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customr want to cancel order
+,2026-06-16,2026-06-10,undefined,Khalid ibrahim,,,396,MBLB2C,YOUNG BEDROOM,MABELLA,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-06-24,2026-06-10,undefined,راجحة  الكلبانية ,,,16,DANDIROM,HOSO,barka,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-06-28,2026-06-10,undefined,Sachini Silva,,,184,DANDIROM,BEDROOM,khouwair,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-06-21,2026-06-11,undefined,Ahmed,,,258,SOHR,BEDROOM,SOHAR,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-06-23,2026-06-11,undefined,Rania Ali,,,34.05,DANDIROM,LIVING,Ruwi,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,wrong location
+,2026-06-25,2026-06-11,undefined,Wissal,,,1037.05,ALKHWR,LIVING,aziba,09:00-13:00,CONFIRM,HAITHAM,7828,Elite,,,customr want to cancel order
+,2026-06-14,2026-06-12,undefined,WALEED,,,85,SOHR,LIVING,Barka,13:00-17:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,wrong location
+,2026-07-04,2026-06-12,undefined,FIRAS,,,563,MBLB2C,LIVING,mabila,09:00-13:00,CONFIRM,UMER KHATAB,1008,Danube,,,Customer site not ready
+,2026-07-20,2026-06-12,undefined,FIRAS,,,563,MBLB2C,LIVING,mabila,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-06-17,2026-06-13,undefined,Faisal,,,85,BARKA,LIVING,mussanah,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-06-21,2026-06-13,undefined,Lith Salim,,,129,ALKHWR,BEDROOM,AL KHOUD,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-06-29,2026-06-13,undefined,Areej alsaid,,,31,DANDIROM,LIVING,MANUMA,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-07-08,2026-06-13,undefined,IBRAHIM ALBALUSHI,,,692.8,ALKHWR,YOUNG BEDROOM,MABELLA ,13:00-17:00,CONFIRM,HAITHAM,7828,Elite,,,Customer site not ready
+,2026-08-10,2026-06-13,undefined,Areej alsaid,,,31,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-06-17,2026-06-14,undefined,MOHAMMED AL SHARIF,,,91.3,ALKHWR,HOSO,Azaiba,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer wants later
+,2026-06-17,2026-06-14,undefined,said,,,95,ALKHWR,BEDROOM,Azaiba,13:00-17:00,CONFIRM,Mahmood talib,7828,Elite,,,Material size issue
+,2026-06-21,2026-06-14,undefined,SULTHAN RASHID,,,167,NIZWA,BEDROOM,izki,17:00-21:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-06-21,2026-06-14,undefined,OMAR,,,180,SOHR,BEDROOM,SOHAR,17:00-21:00,CONFIRM,Mahmood talib,7828,Elite,,,Material size issue
+,2026-06-22,2026-06-14,undefined,wafaa,,,719,MBLB2C,DINING,mabila,09:00-13:00,CONFIRM,Mahmood talib,7828,Elite,,,Customer site not ready
+,2026-06-30,2026-06-14,undefined,AILEEN  ALMENDRAL,,,34,DANDIROM,LIVING,Muscat Hills,17:00-21:00,CONFIRM,HAITHAM,7828,Elite,,,Due to late
+,2026-06-22,2026-06-15,undefined,khalid,,,475,MBLB2C,GARDEN,Mabellah,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Material size issue
+,2026-06-24,2026-06-15,undefined,Kalim Ahmed,,,248,DANDIROM,BEDROOM,mawalih ,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-06-25,2026-06-15,undefined,hassan salam,,,234,SOHR,BEDROOM,suwaiq,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Due to late
+,2026-06-22,2026-06-16,undefined,ABDUALRAHMAN,,,342.001,NIZWA,BEDROOM,IBRI,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,wrong location
+,2026-06-24,2026-06-16,undefined,Alwarith Alkhusaibi,,,34.75,DANDIROM,HOSO,MABELLAH,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer site not ready
+,2026-06-29,2026-06-16,undefined,Mohammad  Fazel ,,,204,DANDIROM,HOSO,Ghubra,17:00-21:00,CONFIRM,HAITHAM,7828,Elite,,,customr want to cancel order
+,2026-06-30,2026-06-16,undefined,Faiza Al Raisi,,,133,DANDIROM,KIDS,Falaj as sham,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-07-01,2026-06-16,undefined,Praveen S Nair,,,51,DANDIROM,LIVING,ruwi,09:00-13:00,CONFIRM,AMMAR YOUSAF,1164,Danube,,,customr want to cancel order
+,2026-07-02,2026-06-16,undefined,MOHAMED ALFARSI,,,90,SOHR,BEDROOM,SOHAR,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer site not ready
+,2026-07-02,2026-06-16,undefined,MOHAMED ALFARSI,,,1213,SOHR,DINING,SOHAR,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer site not ready
+,2026-07-15,2026-06-16,undefined,HAMOOD,,,182,ALKHWR,DINING,MADINAT AL ILHAM,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer not answer/Switch off
+,2026-06-22,2026-06-16,undefined,MOHAMMAD SAIF,,,107.001,MBLB2C,LOSS LEADERS,NIZWA,03TO6PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,wrong location
+,2026-06-24,2026-06-17,undefined,حسام المعمري,,,22.5,DANDIROM,LIVING,mawalih,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-06-27,2026-06-18,undefined,Ameen,,,129,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-06-22,2026-06-19,undefined,MAKTOUM,,,115,SOHR,BEDROOM,AL KHBURA,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-06-22,2026-06-19,undefined,MAKTOUM,,,359.95,SOHR,BEDROOM,AL KHBURA,13:00-17:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-07-02,2026-06-19,undefined,marwa mohamed,,,89.3,DANDIROM,BEDROOM,AZAIBA,09:00-13:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,customer not available at home
+,2026-07-05,2026-06-20,undefined,Ayed Mohamed hedi,,,94.05,DANDIROM,BEDROOM,khouwair,09:00-13:00,CONFIRM,MOHAMED ALAMRI,2743,Elite,,,Customer not answer/Switch off
+,2026-06-26,2026-06-21,undefined,Abdullah Al Harthy,,,651,ALKHWR,LIVING,AL KHOUD,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,customer not available at home
+,2026-06-27,2026-06-21,undefined,Anas,,,155,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-06-28,2026-06-22,undefined,Shahad Albalushi,,,34,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer not answer/Switch off
+,2026-06-29,2026-06-22,undefined,abdullah,,,258,SOHR,BEDROOM,SAHAM,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer site not ready
+,2026-07-01,2026-06-22,undefined,أحمد  الريامي,,,47.7,DANDIROM,BEDROOM,Azaiba,13:00-17:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,customer not available at home
+,2026-07-05,2026-06-22,undefined,أحمد  الريامي,,,47.7,DANDIROM,BEDROOM,AZAIBA,17:00-21:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer wants later
+,2026-07-06,2026-06-22,undefined,مبارك  عامر ,,,70,DANDIROM,Home Furnishing,AL AMERAT,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customr want to cancel order
+,2026-07-11,2026-06-22,undefined,Aqeela albuloshi,,,981.4,MBLB2C,YOUNG BEDROOM,mabila,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-07-11,2026-06-22,undefined,Aqeela albuloshi,,,120.6,MBLB2C,BEDROOM,mabila,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Customer site not ready
+,2026-07-11,2026-06-22,undefined,Aqeela albuloshi,,,174.2,MBLB2C,Electrical,mabila,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Customer site not ready
+,2026-07-20,2026-06-22,undefined,أحمد  الريامي,,,47.7,DANDIROM,BEDROOM,Azaiba,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,customer not available at home
+,2026-06-26,2026-06-23,undefined,rashida,,,1033.131,MBLB2C,LIVING,BARKA,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-06-27,2026-06-23,undefined,KAHLAAN,,,100,ALKHWR,BEDROOM,Ghubra,17:00-21:00,CONFIRM,ABDULLAH MASOUD,2743,Elite,,,Customer not answer/Switch off
+,2026-06-30,2026-06-24,undefined,Nooh Said,,,57,MBLB2C,BEDROOM,Barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-07-02,2026-06-24,undefined,HANI ALHNAAY,,,144,NIZWA,DINING,BAHLA,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-07-30,2026-06-24,undefined,Nooh Said,,,57,MBLB2C,BEDROOM,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-01,2026-06-25,undefined,Khalid,,,343,BARKA,BEDROOM,barka-sawadi,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-07-04,2026-06-25,undefined,HUSSAIN,,,224,ALKHWR,KIDS,qurayat,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-07-04,2026-06-25,undefined,Afrah Afrah,,,15,DANDIROM,GARDEN,AL AMERAT ,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,material damage
+,2026-07-06,2026-06-25,undefined,مبارك  عامر ,,,171,DANDIROM,BEDROOM,AL AMERAT,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customr want to cancel order
+,2026-07-09,2026-06-25,undefined,Ibtisam  Al Adwani,,,94,DANDIROM,BEDROOM,AL Amreat,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,customr want to cancel order
+,2026-07-09,2026-06-25,undefined,صفية الهاشمي,,,400.5,DANDIROM,BEDROOM, MABELLA ,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-07-18,2026-06-25,undefined,Khalid,,,343,BARKA,BEDROOM,barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-07-26,2026-06-25,undefined,SADIQ ALBULUSHI,,,185,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,MIRAN BASHIR,7263,Elite,,,Customer site not ready
+,2026-07-01,2026-06-26,undefined,BAIT ALBARANDAH TRD ,,,262,ALKHWR,LIVING,bowshir,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer not answer/Switch off
+,2026-07-02,2026-06-26,undefined,Swapna Praveen,,,57,DANDIROM,HARDWARE 15, MABELLA,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-07-05,2026-06-26,undefined,laith,,,374,MBLB2C,BEDROOM, MABELLA ,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-07-05,2026-06-26,undefined,ADNAN,,,225.75,SOHR,LIVING,Al Suwaiq,17:00-21:00,CONFIRM,HAITHAM,7828,Elite,,,Due to late
+,2026-07-05,2026-06-26,undefined,ADNAN,,,69.901,SOHR,Rugs,Al Suwaiq,17:00-21:00,CONFIRM,HAITHAM,7828,Elite,,,Due to late
+,2026-07-07,2026-06-26,undefined,Malik Al-harthi,,,132.8,DANDIROM,BEDROOM,mawalih,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-07-07,2026-06-26,undefined,Ahmed,,,68,BARKA,BEDROOM,barka,17:00-21:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,Customer site not ready
+,2026-07-18,2026-06-26,undefined,mashal,,,140,ALKHWR,BEDROOM,barka,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-02,2026-06-27,undefined,esa,,,157,SOHR,KIDS,Al Suwaiq,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,wrong location
+,2026-07-05,2026-06-27,undefined,abdullah,,,240,MBLB2C,BEDROOM, MAWELLAH ,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late
+,2026-07-05,2026-06-27,undefined,Maymona,,,94.5,ALKHWR,HOSO, MAWELLAH ,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late
+,2026-07-05,2026-06-27,undefined,laith,,,314,MBLB2C,LIVING, MABELLA ,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-07-05,2026-06-27,undefined,Mohammed Alwardi,,,53,DANDIROM,BEDROOM,MAWALLEH,17:00-21:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer not answer/Switch off
+,2026-07-07,2026-06-27,undefined, Hamed lal,,,21,DANDIROM,LIVING,AMARAT,13:00-17:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,customer not available at home
+,2026-07-12,2026-06-27,undefined,cheryl neri,,,34,DANDIROM,LIVING,Bawshar,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-07-12,2026-06-27,undefined,Theody James Arsola,,,299,DANDIROM,LIVING,Bawshar,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,The lift at the customer's place is small
+,2026-07-12,2026-06-27,undefined,ASIM AL FARSI,,,266.6,SOHR,BEDROOM,Shinas,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-07-16,2026-06-27,undefined,AL ANOUD,,,220,SOHR,YOUNG BEDROOM,khaboura,09:00-13:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer wants later
+,2026-07-01,2026-06-28,undefined,Mohamed ,,,194,ALKHWR,LIVING,Bowshar,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer home space/Eletricity issue
+,2026-07-08,2026-06-28,undefined,Alaa Al,,,99.5,DANDIROM,BEDROOM,AL KHOUD,09:00-13:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer wants later
+,2026-07-12,2026-06-28,undefined,Almo3tamed bloshy,,,587,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-07-12,2026-06-28,undefined,Almo3tamed bloshy,,,296,MBLB2C,BEDROOM,MABELLA,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-07-13,2026-06-28,undefined,arij chaouachi ,,,488,DANDIROM,BEDROOM,Mawalleh,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer not available at home
+,2026-07-15,2026-06-28,undefined,Buthaina Alhasani,,,31.725,DANDIROM,BEDROOM,AL AMERAT ,17:00-21:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer site not ready
+,2026-07-02,2026-06-29,undefined,MARIA ,,,248.61,SOHR,KIDS,Sohar,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,wrong location
+,2026-07-05,2026-06-29,undefined,ABDUL RAHMAN,,,129,ALKHWR,DINING,MAWELLAH,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late
+,2026-07-05,2026-06-29,undefined,BADER,,,171,BARKA,YOUNG BEDROOM,SUWAIQ,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer site not ready
+,2026-07-06,2026-06-29,undefined,Ram Krishna Mundal,,,130,SOHR,BEDROOM,SOHAR,09:00-13:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-07-07,2026-06-29,undefined,EHITHISAM,,,137.5,MBLB2C,KIDS,RUSEYL,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer wants later
+,2026-07-14,2026-06-29,undefined,thuaray hamed,,,127,DANDIROM,LIVING,mawalih,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-07-14,2026-06-29,undefined,مروه المقبالي,,,16.4,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer not answer/Switch off
+,2026-07-30,2026-06-29,undefined,BADER,,,171,BARKA,YOUNG BEDROOM,suwaiq,13:00-17:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer wants later
+,2026-08-16,2026-06-29,undefined,BADER,,,171,BARKA,YOUNG BEDROOM,suwaiq,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,due to late (Today schedule)
+,2026-07-04,2026-06-30,undefined,Shier,,,191,SOHR,BEDROOM,Sohar,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-07-05,2026-06-30,undefined,kalsa ahmed,,,260.775,NIZWA,GARDEN,MABELLA,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late
+,2026-07-05,2026-06-30,undefined,SALIM,,,459.279,NIZWA,YOUNG BEDROOM,NIZWA,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants later
+,2026-07-07,2026-06-30,undefined,EHITHISAM,,,140,MBLB2C,BEDROOM,RUSEYL,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer wants later
+,2026-07-07,2026-06-30,undefined,EHITHISAM,,,28.9,MBLB2C,Rugs,RUSEYL,13:00-17:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,Customer wants later
+,2026-07-09,2026-06-30,undefined,Hamed Balushi,,,557.406,ALKHWR,BEDROOM,AL KHOUD,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-07-09,2026-06-30,undefined,Ibtisam  Al Adwani,,,29.75,DANDIROM,MULTI ROOM,AL Amreat,17:00-21:00,CONFIRM,UMER KHATAB,1008,Danube,,,customr want to cancel order
+,2026-07-15,2026-06-30,undefined,بدرية علي هديب  البلوشي,,,45,DANDIROM,BEDROOM,Mussnaah,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customr want to cancel order
+,2026-07-15,2026-06-30,undefined,Shadiya  Alshaybani,,,33,DANDIROM,LIVING, Al Amarat ,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-07-11,2026-07-01,undefined,Meeru  Salam,,,29.75,DANDIROM,MULTI ROOM,AL KHOUD,13:00-17:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,customer not available at home
+,2026-07-11,2026-07-01,undefined,rustom,,,140,ALKHWR,BEDROOM,Muscat Hills,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-07-12,2026-07-01,undefined,Assim Al Balushi ,,,20,DANDIROM,LIVING,khoud,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Material issue
+,2026-07-15,2026-07-01,undefined,AHMED,,,157,MBLB2C,YOUNG BEDROOM,Barka,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer wants later
+,2026-07-15,2026-07-01,undefined,Abdulla pasha,,,54,DANDIROM,BEDROOM,khouwair,17:00-21:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,customr want to cancel order
+,2026-07-08,2026-07-02,undefined,NADA,,,76,MBLB2C,LIVING, MABELLA ,17:00-21:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,Customer not answer/Switch off
+,2026-07-11,2026-07-02,undefined,rustom,,,703,ALKHWR,BEDROOM,Muscat Hills,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Due to late
+,2026-07-13,2026-07-02,undefined,MUNTASER,,,197,ALKHWR,BEDROOM,MUTTRAH,13:00-17:00,CONFIRM,UMER KHATAB,1008,Danube,,,customr want to change order
+,2026-07-14,2026-07-02,undefined,Mitchie Donaire,,,69.7,DANDIROM,MULTI ROOM,MUTTRAH,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customer not available at home
+,2026-07-14,2026-07-03,undefined,Ahamed,,,179,ALKHWR,DINING,Ghala,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-07-14,2026-07-03,undefined,Ibrahim,,,122.5,MBLB2C,HOSO,seeb,13:00-17:00,CONFIRM,HAITHAM,7828,Elite,,,customer not available at home
+,2026-07-15,2026-07-03,undefined,Shadiya  Alshaybani,,,19,DANDIROM,LIVING, Al Amarat ,09:00-13:00,CONFIRM,ABDULLAH HAMED,562,Elite,,,customer not available at home
+,2026-07-10,2026-07-04,undefined,Hayet,,,130.5,ALKHWR,BEDROOM,ghoubra,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,customer not available at home
+,2026-07-12,2026-07-04,undefined,Arwa Alkalbani,,,59,DANDIROM,DINING,AL KHOUD,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-07-12,2026-07-04,undefined,Abdullah,,,74,SOHR,BEDROOM,shinas,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer not answer/Switch off
+,2026-07-12,2026-07-04,undefined,Assim Al Balushi ,,,11.6,DANDIROM,BEDROOM,khoud,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Material issue
+,2026-07-18,2026-07-04,undefined,Abdullah,,,74,SOHR,BEDROOM,khoud,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Customer wants later
+,2026-07-19,2026-07-04,undefined,Payman Khoorpour,,,95,DANDIROM,BEDROOM,muscat hills,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customr want to cancel order
+,2026-07-13,2026-07-05,undefined,Nurhan Al balushi,,,426,ALKHWR,BEDROOM,Amarat,13:00-17:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer wants later
+,2026-07-15,2026-07-05,undefined,Naresh Kumar Yadav,,,20,DANDIROM,LIVING,Gahal,09:00-13:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Material issue
+,2026-07-15,2026-07-05,undefined,Yasser Yaqoob,,,80,DANDIROM,BEDROOM,darsayt,13:00-17:00,CONFIRM,AHMED HAMED,7263,Elite,,,customr want to change order
+,2026-07-16,2026-07-05,undefined,Mahra Alzidjali,,,72.4,DANDIROM,MULTI ROOM,mabellah,09:00-13:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,customr want to cancel order
+,2026-07-18,2026-07-05,undefined,Hani Al-Jahwari,,,80,DANDIROM,BEDROOM,bowhser,09:00-13:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer wants later
+,2026-07-19,2026-07-05,undefined,Nikhil Jain,,,60,DANDIROM,YOUNG BEDROOM,khouwair,13:00-17:00,CONFIRM,AHMED HAMED,7263,Elite,,,Customer wants later
+,2026-07-09,2026-07-06,undefined,Malaak  Alhabsi,,,30,DANDIROM,HOSO,Al khoud,17:00-21:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-07-09,2026-07-06,undefined,sushama Kurien ,,,49,DANDIROM,YOUNG BEDROOM,Al khoud,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,customer not available at home
+,2026-07-12,2026-07-06,undefined,MAZIN,,,517,MBLB2C,BEDROOM,ruwi,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,The lift at the customer's place is small
+,2026-07-14,2026-07-06,undefined,Daud,,,444,ALKHWR,LIVING,aziba,13:00-17:00,CONFIRM,MUNTASAR NASSER,7263,Elite,,,Customer wants later
+,2026-07-15,2026-07-06,undefined,Issa ALsulaimi,,,30,NIZWA,LIVING,sumail,09:00-13:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Material issue
+,2026-07-09,2026-07-06,undefined,Mohammed AL-Hsaani,,,247.005,ALKHWR,Tiles,ansab,3:00 - 6:00,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,Due to late
+,2026-07-09,2026-07-07,undefined,Amani AlBulushi ,,,44.1,DANDIROM,DINING,BARKA,09:00-13:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer wants later
+,2026-07-11,2026-07-07,undefined,APPU,,,126,ALKHWR,BEDROOM,Ghallah,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to change order
+,2026-07-13,2026-07-07,undefined,Ms. Mshail,,,16.75,DANDIROM,LIVING,Mabellah,13:00-17:00,CONFIRM,AMJAD HUSSAIN,1177,NOVELTY,,,Customer not answer/Switch off
+,2026-07-19,2026-07-07,undefined,Sahara Al Nabhani,,,36,DANDIROM,KIDS,seeb,09:00-13:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,customr want to change order
+,2026-07-23,2026-07-07,undefined,عبدالله  العبري,,,21.965,DANDIROM,MULTI ROOM,bowsher,09:00-13:00,CONFIRM,ABDULLAH HAMED,5845,Elite,,,wrong contact no
+,2026-07-13,2026-07-09,undefined,mohmmed qadhy ,,,400,MBLB2C,LIVING,MUSCAT HILLS,09:00-13:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer not answer/Switch off
+,2026-07-13,2026-07-09,undefined,Adel Humaid,,,129,NIZWA,BEDROOM,BAHLA,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer home space/Eletricity issue
+,2026-07-21,2026-07-10,undefined,Sudheesh Krishnan,,,20,DANDIROM,LIVING,mawaleh,17:00-21:00,CONFIRM,AMJAD HUSSAIN,8841,NOVELTY,,,Customer wants later
+,2026-08-02,2026-07-10,undefined,Ahmed,,,265,NIZWA,BEDROOM,bahla,09:00-13:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer home space/Eletricity issue
+,2026-07-18,2026-07-11,undefined,MAZIN,,,111,MBLB2C,BEDROOM,GHALA,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-07-18,2026-07-11,undefined,MAZIN,,,155,MBLB2C,DINING,GHALA,17:00-21:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer not answer/Switch off
+,2026-07-15,2026-07-12,undefined,BADAR ABDULLA,,,158.4,SOHR,LIVING,shinas,09:00-13:00,CONFIRM,AYOUB ZAID,7828,Elite,,,customer not available at home
+,2026-07-15,2026-07-12,undefined,Sarah ,,,68,ALKHWR,BEDROOM,amirat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Material size issue
+,2026-07-16,2026-07-12,undefined,YAHQOOB,,,729,SOHR,BEDROOM,suwaiq,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,customer not available at home
+,2026-07-18,2026-07-12,undefined,ساميه البلوشي,,,34,DANDIROM,LIVING,AL Musannah,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customr want to cancel order
+,2026-07-18,2026-07-12,undefined,marwan abu misk,,,130,DANDIROM,BEDROOM,alkhoud,13:00-17:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,Customer home space/Eletricity issue
+,2026-07-19,2026-07-12,undefined,Amal Taha,,,95,DANDIROM,KIDS,wutayyah,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-07-19,2026-07-12,undefined,nezha assaili,,,74.98,DANDIROM,LIVING,mawleh,17:00-21:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,Customer not answer/Switch off
+,2026-07-20,2026-07-12,undefined,MOHAMED,,,653,MBLB2C,BEDROOM,MABELLA,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-07-29,2026-07-12,undefined,BADAR ABDULLA,,,158.4,SOHR,LIVING,shinas,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-08-08,2026-07-12,undefined,YAHQOOB,,,729,SOHR,BEDROOM,khabourah,09:00-13:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,customr want to cancel order
+,2026-07-27,2026-07-13,undefined,Heena Vora,,,1387,ALKHWR,GARDEN,madinat al alham ,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,There was no space in the vehicle
+,2026-08-19,2026-07-13,undefined,hathim sulaiman,,,148,MBLB2C,BEDROOM,barka,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,Customer Need togather
+,2026-07-18,2026-07-14,undefined,AL MOHANA,,,174,MBLB2C,LIVING,seeb,13:00-17:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer wants later
+,2026-07-20,2026-07-14,undefined,eshii kaa,,,39.96,DANDIROM,BEDROOM,hail,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-07-21,2026-07-14,undefined,basem al balushi,,,58.25,ALKHWR,BEDROOM, MABELLA,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,wrong location
+,2026-07-23,2026-07-14,undefined,Shaima Al Rawahi,,,136.5,DANDIROM,YOUNG BEDROOM,mawaleh,09:00-13:00,CONFIRM,AMJAD HUSSAIN,8841,NOVELTY,,,customer not available at home
+,2026-08-01,2026-07-14,undefined,ahmed,,,132,MBLB2C,BEDROOM,Izki,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer not answer/Switch off
+,2026-07-19,2026-07-15,undefined,Amal Taha,,,35,ALKHWR,BEDROOM,wutayyah,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-07-22,2026-07-15,undefined,علي الفارسي,,,145,DANDIROM,YOUNG BEDROOM,alkhoud,17:00-21:00,CONFIRM,AMJAD HUSSAIN,8841,NOVELTY,,,Customer wants later
+,2026-07-26,2026-07-15,undefined,ALI HOSNI,,,216.4,SOHR,BEDROOM,khabura,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-07-21,2026-07-16,undefined,ESAM TALA,,,346,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,MIRAN BASHIR,7263,Elite,,,Material issue
+,2026-07-25,2026-07-16,undefined,Eman  Alsaaidi ,,,44.5,DANDIROM,HOSO,amarat,13:00-17:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,customer not available at home
+,2026-07-28,2026-07-16,undefined,suad  albahlouli,,,81,DANDIROM,LIVING,amirat,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-07-20,2026-07-16,undefined,MAHMOUD,,,858.001,ALKHWR,Sanitary,mawalih,3:00 - 6:00,CONFIRM,FAISAL,5923,Danube High-Ups,,,customr want to Cancel order
+,2026-07-21,2026-07-16,undefined,OSBIC INTERNATIONAL,,,327.097,ALKHWR,Tiles,seeb,9:00 - 6:00,CONFIRM,ANSAR,9375,Danube High-Ups,,,Customer want to later
+,2026-07-20,2026-07-17,undefined,sultan Alshuaili,,,29.3,DANDIROM,MULTI ROOM,mabellah,17:00-21:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,customr want to cancel order
+,2026-07-27,2026-07-17,undefined,abdullah,,,143,SOHR,BEDROOM,alkhoud 6,17:00-21:00,CONFIRM,MIRAN BASHIR,7263,Elite,,,Customer wants later
+,2026-08-15,2026-07-17,undefined,MOHAMMED HAMED,,,299,NIZWA,LIVING,bahla,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,Customer site not ready
+,2026-07-22,2026-07-18,undefined,mike yambot,,,56,DANDIROM,BEDROOM,Ansab,09:00-13:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customer not available at home
+,2026-07-26,2026-07-18,undefined,ahmed,,,93.8,ALKHWR,BEDROOM,alkhuwair,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer wants later
+,2026-07-29,2026-07-18,undefined,mohammad murad,,,135,SOHR,BEDROOM,shinas,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Still pending New order at the showroom. The customer wants the entire material to be delivered together.
+,2026-07-29,2026-07-18,undefined,mohammad murad,,,96,SOHR,BEDROOM,shinas,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Still pending New order at the showroom. The customer wants the entire material to be delivered together.
+,2026-07-29,2026-07-18,undefined,mohammad murad,,,29.9,SOHR,Rugs,shinas,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Still pending New order at the showroom. The customer wants the entire material to be delivered together.
+,2026-07-30,2026-07-18,undefined,ميعاد البلوشي البلوشي,,,40.5,DANDIROM,KIDS,Amarat,17:00-21:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer not answer/Switch off
+,2026-07-21,2026-07-18,undefined,Khalsaa Al Amri,,,104.001,MBLB2C,DOORS DH,mabila,9:00 - 6:00,CONFIRM,FAISAL,5923,Danube High-Ups,,,customer not available at home
+,2026-07-23,2026-07-19,undefined,Hajar Mohammad,,,123,DANDIROM,LIVING,barka,09:00-13:00,CONFIRM,ASHAN WARIS,3258,NOVELTY,,,Customer not answer/Switch off
+,2026-07-26,2026-07-19,undefined,ALWALEED,,,118,ALKHWR,LIVING,sumail,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,customr want to change order
+,2026-07-29,2026-07-19,undefined,Issa Sultan,,,202.625,DANDIROM,BEDROOM,mabila,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-07-25,2026-07-20,undefined,Abdul Kadir Shastikar,,,44.1,DANDIROM,YOUNG BEDROOM,ruwi,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,Customer not answer/Switch off
+,2026-07-28,2026-07-20,undefined,محمد سعيد سالم الحسني,,,140.25,DANDIROM,DINING,barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-07-28,2026-07-20,undefined,محمد سعيد سالم الحسني,,,50,DANDIROM,HOSO,barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-07-25,2026-07-21,undefined,aseel albakry,,,109.5,DANDIROM,LIVING,mawaleh,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customer Cash issue
+,2026-07-29,2026-07-21,undefined,Assim Al Balushi ,,,16.9,DANDIROM,MULTI ROOM,khoud,17:00-21:00,CONFIRM,MIRAN BASHIR,7263,Elite,,,customr want to cancel order
+,2026-07-26,2026-07-22,undefined,ALI HOSNI,,,240,SOHR,BEDROOM,khabura,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer site not ready
+,2026-07-28,2026-07-22,undefined,NADIIA,,,201.625,MBLB2C,BEDROOM,ghala,13:00-17:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer not answer/Switch off
+,2026-07-28,2026-07-22,undefined,Suresh Kumar,,,188,DANDIROM,BEDROOM,al khuwair,17:00-21:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-07-28,2026-07-23,undefined,Ibtisam  Al Adwani,,,25.85,DANDIROM,MULTI ROOM,Amarat,17:00-21:00,CONFIRM,AMJAD HUSSAIN,8841,NOVELTY,,,Customer not answer/Switch off
+,2026-07-28,2026-07-23,undefined,MUOSA,,,171,NIZWA,BEDROOM,nizwa,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-07-30,2026-07-23,undefined,Shazia Ansari,,,58,DANDIROM,LIVING,mabila,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,customr want to cancel order
+,2026-08-05,2026-07-23,undefined,Ibtisam  Al Adwani,,,25.85,DANDIROM,MULTI ROOM,amirat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-07-30,2026-07-24,undefined,khalil Al suti,,,52.5,DANDIROM,HOSO,amarat,17:00-21:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customr want to cancel order
+,2026-07-29,2026-07-25,undefined,JASSIM,,,214,ALKHWR,LIVING,amerat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,The customer's house has an old bedroom
+,2026-07-29,2026-07-25,undefined,JASSIM,,,38,ALKHWR,LIVING,amerat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,The customer's house has an old bedroom
+,2026-07-29,2026-07-25,undefined,JASSIM,,,71,ALKHWR,LIVING,amerat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,The customer's house has an old bedroom
+,2026-07-30,2026-07-25,undefined,WALID,,,643.001,MBLB2C,BEDROOM,Ibri,13:00-17:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,Customer site not ready
+,2026-07-30,2026-07-26,undefined,Aboobaker Bollar,,,40,DANDIROM,HOSO,amarat,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customr want to cancel order
+,2026-07-31,2026-07-26,undefined,taif,,,55,MBLB2C,BEDROOM,mabella,09:00-13:00,CONFIRM,USAMA SARFRAZ,5580,Danube,,,Customer wants later
+,2026-08-03,2026-07-26,undefined,rana ayman,,,226,DANDIROM,KIDS,khouwair,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-08-05,2026-07-26,undefined,SALAH ALI,,,550.001,MBLB2C,BEDROOM,mudaibi,17:00-21:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-07-30,2026-07-27,undefined,Rashid,,,148,ALKHWR,BEDROOM,mabella,09:00-13:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer wants to change location
+,2026-08-01,2026-07-27,undefined,AL KHALIL,,,400,NIZWA,LIVING,manah,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,Due to late (vehicle breakdown)
+,2026-08-02,2026-07-27,undefined,HAFID,,,107,MBLB2C,BEDROOM,mabella,13:00-17:00,CONFIRM,AMJAD HUSSAIN,8841,NOVELTY,,,Customer wants later
+,2026-08-03,2026-07-27,undefined,Khalid,,,318,MBLB2C,LIVING,barka,09:00-13:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer wants later
+,2026-08-05,2026-07-27,undefined,Ahmed Ghudayyer,,,332.001,ALKHWR,LIVING,al qabil,13:00-17:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-08-01,2026-07-28,undefined,kalid,,,183,MBLB2C,LIVING,alkhoud,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,Customer not answer/Switch off
+,2026-08-01,2026-07-28,undefined,Nasra Al Marhoubi,,,45,DANDIROM,LIVING,Seeb,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,Elite,,,customr want to cancel order
+,2026-08-01,2026-07-28,undefined,MOHAND,,,105,NIZWA,LIVING,nizwa,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,customr want to change order
+,2026-08-02,2026-07-28,undefined,Ahmed,,,290,NIZWA,BEDROOM,bahla,09:00-13:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,Customer home space/Eletricity issue
+,2026-08-04,2026-07-29,undefined,Rahul,,,249,ALKHWR,BEDROOM,ghoubra,17:00-21:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer wants later
+,2026-08-03,2026-07-30,undefined,SULTAN,,,328.501,SOHR,BEDROOM,Ibri,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer wants later
+,2026-08-05,2026-07-30,undefined,nabeel  ali,,,189,MBLB2C,BEDROOM,mabila,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,Customer wants later
+,2026-08-05,2026-07-30,undefined,khalid naser al-kindi,,,233,NIZWA,BEDROOM,nizwa,09:00-13:00,CONFIRM,KHAWAR ALI,1164,Danube,,,customer not available at home
+,2026-08-13,2026-07-30,undefined,nabeel  ali,,,189,MBLB2C,BEDROOM,mabella,09:00-13:00,CONFIRMED,AYOUB ZAID,7828,Elite,,,Customer site not ready
+,2026-08-03,2026-07-31,undefined,Jehad Hamed,,,84,DANDIROM,LIVING,Sallahah,13:00-17:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer not answer/Switch off
+,2026-08-04,2026-07-31,undefined,IMRAN,,,109,NIZWA,YOUNG BEDROOM,nizwa,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-08-09,2026-07-31,undefined,Fatma,,,149,BARKA,BEDROOM,swadi,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer wants to change location
+,2026-08-11,2026-07-31,undefined,Jehad Hamed,,,79.8,DANDIROM,BEDROOM,silaha,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer/Switch off
+,2026-08-04,2026-08-01,undefined,Shihab ali,,,42.355,DANDIROM,Sanitary,mabella,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,customr want to cancel order
+,2026-08-05,2026-08-01,undefined,ALMOUTASM,,,369,MBLB2C,LIVING,barka,17:00-21:00,CONFIRM,MUHAMMAD ARSHAD,8622,Danube,,,customer not available at home
+,2026-08-08,2026-08-01,undefined,فاطمة المعمرية,,,102.25,DANDIROM,YOUNG BEDROOM,Mabellah,09:00-13:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,Customer wants later
+,2026-08-12,2026-08-01,undefined,husam  alhashami,,,52.4,DANDIROM,LIVING,bowsher,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-08-15,2026-08-01,undefined,mohammad,,,202.25,SOHR,HOSO,al kabourah,13:00-17:00,CONFIRM,USAMA SARFRAZ,9203,Danube,,,due to late
+,2026-08-15,2026-08-01,undefined,almuotaz,,,202,ALKHWR,BEDROOM,wadi kabir,17:00-21:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-08-05,2026-08-02,undefined,ABDULRAHMAN,,,185,MBLB2C,BEDROOM,mawaleh,17:00-21:00,CONFIRM,USAMA SARFRAZ,9203,Danube,,,Customer wants later
+,2026-08-05,2026-08-02,undefined,yousuf al wardi,,,849.001,ALKHWR,LIVING,mudaibi,13:00-17:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-08-08,2026-08-02,undefined,Maged,,,267,NIZWA,LIVING,nizwa,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Due to late 
+,2026-08-09,2026-08-02,undefined,MATTAR,,,135,SOHR,HOSO,sohar,09:00-13:00,CONFIRM,HAIDER ALI,5042,Danube,,,customr want to change order
+,2026-08-15,2026-08-02,undefined,Faisal Mohammed,,,171.456,SOHR,BEDROOM,sohar,13:00-17:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-08-08,2026-08-03,undefined,ABDULLA,,,342,MBLB2C,BEDROOM,barka,17:00-21:00,CONFIRM,FAISAL,8622,Danube,,,Customer wants later
+,2026-08-08,2026-08-03,undefined,SCHACKMANN,,,258.22,SOHR,LIVING,sohar,17:00-21:00,CONFIRM,AYOUB ZAID,7828,Elite,,,Customer not answer/Switch off
+,2026-08-15,2026-08-03,undefined,Sulaiman Alaufi,,,73.5,ALKHWR,BEDROOM,mabella,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Wrong billing
+,2026-08-12,2026-08-04,undefined,amal ali,,,43,DANDIROM,LIVING,amarat,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,Customer wants later
+,2026-08-08,2026-08-05,undefined,ABDULLA,,,81,MBLB2C,BEDROOM,barka,17:00-21:00,CONFIRM,FAISAL,8622,Danube,,,Customer wants later
+,2026-08-11,2026-08-05,undefined,شمسة الصقري ,,,55.71,DANDIROM,HOME DECOR,amarat,13:00-17:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,customer Cash issue
+,2026-08-11,2026-08-05,undefined,روى البوسعيدي ,,,38,DANDIROM,LIVING,bowsher,13:00-17:00,CONFIRM,AYOUB ZAID,7828,Elite,,,customr want to cancel order
+,2026-08-11,2026-08-05,undefined,Rahma Merzougui,,,354,DANDIROM,LIVING,almouj,09:00-13:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,customr want to cancel order
+,2026-08-09,2026-08-06,undefined,Moorthy Somasundaram,,,76.9,SOHR,MULTI ROOM,Sohar,17:00-21:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer not answer/Switch off
+,2026-08-11,2026-08-06,undefined,abdallah,,,94,MBLB2C,BEDROOM,alhail,17:00-21:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer not available at home
+,2026-08-13,2026-08-06,undefined,anas ahmed,,,34.7,DANDIROM,HOSO,mawalleh,13:00-17:00,CONFIRMED,FEROZ,432,Danube,,,customer not available at home
+,2026-08-15,2026-08-06,undefined,Albaraa,,,193.5,SOHR,YOUNG BEDROOM,SOHAR,13:00-17:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-08-15,2026-08-06,undefined,Albaraa,,,62.5,SOHR,BEDROOM,SOHAR,13:00-17:00,CONFIRM,AWAIS ALI,146,Danube,,,Due to late (vehicle breakdown)
+,2026-08-09,2026-08-07,undefined,DEVENDRASINH P THAKOR,,,269,SOHR,LIVING,Sohar,17:00-21:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer wants later
+,2026-08-15,2026-08-07,undefined,عبير  الرحبي,,,172,DANDIROM,KIDS,Musannah,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer wants later
+,2026-08-18,2026-08-07,undefined,AHMED AL BUSAIDI,,,229,ALKHWR,LIVING,quram,09:00-13:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,customer not available at home
+,2026-08-11,2026-08-08,undefined,VETRIVELMURUGAN RAJENDRAN,,,240,SOHR,LIVING,Sohar,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer wants later
+,2026-08-12,2026-08-08,undefined,KHAMIS AL RAHABI,,,25,MBLB2C,HOSO,mabella,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,Customer wants later
+,2026-08-12,2026-08-08,undefined,mohammed alkindi,,,249,MBLB2C,DINING,al jafnin,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,due to late
+,2026-08-13,2026-08-08,undefined,Filomena  Zharkas ,,,75,DANDIROM,LIVING,BOWSHAR,13:00-17:00,CONFIRMED,MOHAMMAD ASIF,5533,NOVELTY,,,Customer not answer/Switch off
+,2026-08-13,2026-08-08,undefined,Ahmed Samy,,,167.215,DANDIROM,BEDROOM,bowhser,13:00-17:00,CONFIRMED,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-08-13,2026-08-08,undefined,Ahmed Samy,,,50.95,DANDIROM,BEDROOM,bowhser,13:00-17:00,CONFIRMED,Dawood Khalfan,455,Elite,,,Customer wants later
+,2026-08-11,2026-08-08,undefined,AHMED,,,186.701,MBLB2C,Sanitary,RUSTAQ,10TO1PM,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,customer not available at home
+,2026-08-15,2026-08-09,undefined,SAED,,,605.25,MBLB2C,HOSO,barka,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-08-15,2026-08-09,undefined,Alfadhal Aljuma,,,106,DANDIROM,DINING,Barka,13:00-17:00,CONFIRM,ABDULLAH HAMED,5845,Elite,,,Due to late (vehicle breakdown)
+,2026-08-19,2026-08-09,undefined,وليد سالم سعيد البوصافي  البوصافي ,,,77.25,DANDIROM,BEDROOM,Al Amarat,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-08-19,2026-08-09,undefined,وليد سالم سعيد البوصافي  البوصافي ,,,99,DANDIROM,BEDROOM,Al Amarat,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer not answer/Switch off
+,2026-08-16,2026-08-09,undefined,yahya,,,279.073,NIZWA,Tiles,Nizwa Karsha,3to6PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,customer house Road too narrow for vehicles
+,2026-08-17,2026-08-10,undefined,كريمه الزيدي,,,167,DANDIROM,BEDROOM,mabila,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-08-17,2026-08-10,undefined,Wafa,,,93.4,MBLB2C,Rugs,al ansab,13:00-17:00,CONFIRM,Dawood Khalfan,455,Elite,,,material damage (no stock for replacment)
+,2026-08-15,2026-08-11,undefined,SAED,,,39,MBLB2C,HOSO,barka,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,customer not available at home
+,2026-08-16,2026-08-11,undefined,Nada  Kamel,,,23.9,DANDIROM,LIVING,GHUBRA,13:00-17:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,Customer not answer/Switch off
+,2026-08-17,2026-08-12,undefined,Vin Vin,,,16.7,DANDIROM,HOSO,Wattaya,13:00-17:00,CONFIRM,HILAL,2757,Elite,,,customr want to cancel order
+,2026-08-17,2026-08-13,undefined,Suhaib Alaghbari,,,34,DANDIROM,HOSO,Mabellah,13:00-17:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,customer not available at home
+,2026-08-19,2026-08-15,undefined,Naresh Kumar Yadav,,,80,DANDIROM,DINING,ghala,13:00-17:00,CONFIRM,AYOUB ZAID,7828,Elite,,,Customer wants later
+,2026-08-19,2026-08-16,undefined,NASEER,,,95,BARKA,BEDROOM,MUSANNAH,13:00-17:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,customer not available at home
+,2026-08-20,2026-08-18,undefined,MOHAMED,,,261,MBLB2C,LIVING,MABELLA,13:00-17:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer want to exchange
+,2026-08-20,2026-08-16,undefined,aisha mohamed,,,35,DANDIROM,LIVING,barka,17:00-21:00,CONFIRM,MOHAMMAD ASIF,5533,NOVELTY,,,Customer want to Cancel order
+,2026-08-20,2026-08-09,undefined,SAED,,,605.25,MBLB2C,HOSO,halban,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer the call
+,2026-08-20,2026-08-11,undefined,SAED,,,39,MBLB2C,HOSO,halban,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer the call
+,2026-08-20,2026-08-02,undefined,HUMID AL-SHIDI,,,566,ALKHWR,LIVING,aziba,17:00-21:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,customer not available at home
+,2026-08-20,2026-08-05,undefined,HUMID AL-SHIDI,,,45.001,ALKHWR,PURIFIER AND APPLIANCES,aziba,17:00-21:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,customer not available at home
+,2026-08-20,2026-07-31,undefined,NAJEEB AL MAHFOODH,,,110,MBLB2C,LIVING,mablia,17:00-21:00,CONFIRM,HAMMAD SALEEM,2282,NOVELTY,,,customer not available at home
+,2026-08-20,2026-07-27,undefined,nadia  Al hamidi ,,,44.65,DANDIROM,LIVING,azaiba,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,NOVELTY,,,Customer not answer the call
+,2026-08-21,2026-08-16,undefined,ALIA,,,145,ALKHWR,DINING,al khuwair,13:00-17:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,The vehicle was stopped by the ROP
+,2026-08-21,2026-08-16,undefined,MAKTOOM,,,190,ALKHWR,LIVING,al ghubrah,17:00-21:00,CONFIRM,MUHAMMAD SOHAIL,1008,Danube,,,The vehicle was stopped by the ROP
+,2026-08-22,2026-07-20,undefined,ALI AL-BALUSHI,,,696,ALKHWR,BEDROOM,suwaiq,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer not answer the call
+,2026-08-22,2026-08-19,undefined,Ashraf Sinada,,,43.2,DANDIROM,BEDROOM,Mabellah,13:00-17:00,CONFIRM,MUBASSAR,7297,Danube,,,Material size issue
+,2026-08-22,2026-08-08,undefined,Pedram,,,272,ALKHWR,BEDROOM,al khuwair,17:00-21:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,Customer want to later
+,2026-08-22,2026-08-01,undefined,ahmed,,,62.001,MBLB2C,DOORS DH,Alkhoud,10to1PM,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,customer not available at home
+,2026-08-22,2026-08-06,undefined,ahmed,,,1.201,MBLB2C,HARDWARE 15,Alkhoud,10to1PM,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,customer not available at home
+,2026-08-22,2026-08-16,undefined,ahmed,,,1.401,MBLB2C,HARDWARE 15,Alkhoud,10to1PM,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,customer not available at home
+,2026-08-23,2026-08-09,undefined,SAED,,,605.25,MBLB2C,HOSO,HALBAN,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-08-23,2026-08-11,undefined,SAED,,,39,MBLB2C,HOSO,HALBAN,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,customer not available at home
+,2026-08-23,2026-08-18,undefined,MOHAMMAD TALIB,,,180,SOHR,YOUNG BEDROOM,Sohar,13:00-17:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Customer site not ready
+,2026-08-23,2026-08-01,undefined,AIMAN,,,780,MBLB2C,BEDROOM,mabila,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer site not ready
+,2026-08-23,2026-08-20,undefined,Mohammed  Alsaleh ,,,134,DANDIROM,BEDROOM,ghubrah,13:00-17:00,CONFIRM,MUBASSAR,7297,Danube,,,Material size issue
+,2026-08-23,2026-08-18,undefined,wathba siy,,,99,DANDIROM,GARDEN,Al Amarat,17:00-21:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,due to late
+,2026-08-23,2026-08-17,undefined,kathirvel ,,,138,ALKHWR,BEDROOM,al khuwair,17:00-21:00,CONFIRM,MOHAMMAD ASIF,5533,NOVELTY,,,due to late
+,2026-08-23,2026-08-19,undefined,عبدالله  الغيلاني,,,76,DANDIROM,BEDROOM,Mawaleh,17:00-21:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer want to Cancel order 
+,2026-08-24,2026-08-15,undefined,ostora  ostora,,,63,DANDIROM,LIVING,mabila,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Due to cash issue
+,2026-08-24,2026-08-20,undefined,ostora  ostora,,,62,DANDIROM,HOSO,mabella,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Due to cash issue
+,2026-08-24,2026-08-15,undefined,ostora  ostora,,,60,DANDIROM,HOSO,mabella,17:00-21:00,CONFIRM,MOHAMED AL AMRI,2743,Elite,,,Due to cash issue
+,2026-08-24,2026-08-15,undefined,Naresh Kumar Yadav,,,80,DANDIROM,DINING,GHALA,13:00-17:00,CONFIRM,AHMED HAMED,1052,Elite,,,customer not available at home
+,2026-08-24,2026-07-28,undefined,Adil salim al hinai,,,87.5,NIZWA,DOORS DH,Bahla,3to6PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer cancel material
+,2026-08-25,2026-08-21,undefined,Mohammed Azzan Mohiuddin,,,63,DANDIROM,BEDROOM,ruwi,13:00-17:00,CONFIRM,ABDULLAH HAMED,5845,Elite,,,Customer want to later
+,2026-08-25,2026-08-23,undefined,hamed mohammed,,,74,SOHR,MULTI ROOM,Sohar,13:00-17:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer want to later
+,2026-08-25,2026-08-08,undefined,SAID AL SHEZAWI,,,57,DANDIROM,HOSO,barka,09:00-13:00,CONFIRM,MOHAMMAD ASIF,5533,NOVELTY,,,wrong location
+,2026-08-25,2026-05-30,undefined,NADEEM AL BALUSHI,,,317,ALKHWR,BEDROOM,amirat,13:00-17:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,customer mobile no switch off
+,2026-08-25,2026-08-08,undefined,Nasra Hamood,,,75,DANDIROM,LIVING,amirat,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,Customer want to Cancel order 
+,2026-08-26,2026-08-23,undefined,ShaimA Albelushi,,,113,DANDIROM,KIDS,Barka,09:00-13:00,CONFIRM,HAMMAD SALEEM,2282,NOVELTY,,,Customer cancel material
+,2026-08-26,2026-08-22,undefined,مريم راشد الحكماني,,,35.1,DANDIROM,YOUNG BEDROOM,mawalih,09:00-13:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,,,Customer not answer the call
+,2026-08-26,2026-08-21,undefined,Khadija Alsharji,,,35,DANDIROM,MULTI ROOM,barka,09:00-13:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer the call
+,2026-08-26,2026-07-13,undefined,hathim sulaiman,,,148,MBLB2C,BEDROOM,barka,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,Customer site not ready
+,2026-08-26,2026-08-17,undefined,hathim sulaiman,,,96,MBLB2C,BEDROOM,barka,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,Customer site not ready
+,2026-08-26,2026-08-23,undefined,Arumai Raj  Ravi,,,44.43,DANDIROM,BEDROOM,Seeb,13:00-17:00,CONFIRM,HAIDER ALI,5042,Danube,,,customer mobile no switch off
+,2026-08-26,2026-08-12,undefined,Yousuf Bin Ahmed Al-AamriTrad.LLC,,,578.881,ALKHWR,Tiles,QURAM,10TO1PM,CONFIRM,TAHIR ALI,1697,Danube High-Ups,,,Customer site not space
+,2026-08-26,2026-08-23,undefined,OMAR ABDULAZIZ,,,124.201,SOHR,Tiles,KHABURAH,3TO6PM,CONFIRM,MASOOD AKHTAR,8036,Danube High-Ups,,,customer not available at home
+,2026-08-26,2026-08-21,undefined,Amjad Al,,,62,ALKHWR,KIDS,bawshar,09:00-13:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer want to later
+,2026-08-26,2026-08-06,undefined,Shyni John,,,38,DANDIROM,LIVING,ghoubra,17:00-21:00,CONFIRM,Dawood Khalfan,455,Elite,,,Customer not answer the call
+,2026-08-26,2026-07-31,undefined,NAJEEB AL MAHFOODH,,,110,MBLB2C,LIVING,mablia,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,customer not available at home
+,2026-08-26,2026-08-21,undefined,Wasayf,,,169,MBLB2C,BEDROOM,mawalleh,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer want to later
+,2026-08-26,2026-08-21,undefined,Wasayf,,,25,MBLB2C,LIVING,mawalleh,09:00-13:00,CONFIRM,ALI BASHIR,6341,Elite,,,Customer want to later
+,2026-08-27,2026-08-24,undefined,افراح البلوشي,,,50.255,DANDIROM,BEDROOM,Seeb,09:00-13:00,CONFIRM,USAMA SARFRAZ,9203,Danube,,,customer not available at home
+,2026-08-27,2026-08-19,undefined,AMAL SAID KHAMS,,,110,NIZWA,KIDS,nizwa,09:00-13:00,CONFIRM,AHMED,1008,Danube,,,wrong contact no
+,2026-08-28,2026-08-22,undefined,rahma,,,350,ALKHWR,LIVING,al khuwair,17:00-21:00,CONFIRM,MOHSIN RAZZAQ,7288,Danube,,,Customer want to later
+,2026-08-29,2026-08-20,undefined,Muna Al ysser ,,,495,DANDIROM,BEDROOM,mawalih,13:00-17:00,CONFIRM,FEROZ,432,Danube,,,Customer want to Cancel order 
+,2026-08-29,2026-08-24,undefined,Zamzam Alsiyabi,,,28.4,DANDIROM,MULTI ROOM,mawalih,17:00-21:00,CONFIRM,FEROZ,432,Danube,,,Customer not answer the call
+,2026-08-29,2026-08-14,undefined,ZAKARIA,,,185,SOHR,BEDROOM,sohar,17:00-21:00,CONFIRM,AHMED HAMED,1052,Elite,,,Customer house no space 
+,2026-08-29,2026-08-23,undefined,FATEMA,,,641,MBLB2C,DINING,amerat,17:00-21:00,CONFIRM,SAAD SIDDIQ,8341,Elite,,,wrong location
+,2026-08-30,2026-07-30,undefined,moosa,,,170,NIZWA,HOME DECOR,bahla,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-08-30,2026-07-18,undefined,moosa,,,519.92,NIZWA,LIVING,bahla,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-08-30,2026-07-18,undefined,moosa,,,28.9,NIZWA,Rugs,bahla,09:00-13:00,CONFIRM,JAMSHAID KHAN,6672,Danube,,,Customer site not ready
+,2026-08-30,2026-08-12,undefined,hajar ali,,,37.8,DANDIROM,BEDROOM,wadi khabir,17:00-21:00,CONFIRM,MOHAMMAD ASIF,5533,NOVELTY,,,customer not available at home
+,2026-08-30,2026-08-26,undefined,Aseel  Almamari,,,34.45,DANDIROM,KIDS,Al Khawd,13:00-17:00,CONFIRM,HAMMAD SALEEM,2282,NOVELTY,,,Customer want to Cancel order 
+,2026-08-30,2026-08-25,undefined,md isfar,,,80.25,DANDIROM,HOSO,mawalih,09:00-13:00,CONFIRM,HAMMAD SALEEM,2282,NOVELTY,,,Customer want to Cancel order 
+,2026-08-30,2026-08-23,undefined,BADER,,,325,SOHR,DINING,liwa,09:00-13:00,CONFIRM,HILAL,2757,Elite,,,customer not available at home
+,2026-08-30,2026-02-15,undefined,MOHAMMED,,,1996,ALKHWR,LIVING,barka,09:00-13:00,CONFIRM,AHMED HAMED,1052,Elite,,,customer not available at home
+,2026-08-30,2026-08-16,undefined,معتصم  بلوشي,,,45,DANDIROM,HOSO,amirat,09:00-13:00,CONFIRM,MUBASSAR,7297,Danube,,,Customer not answer the call
+1322,31-Aug-26,28-Aug-26,WO26007294,Sami Tamtami,96892221172,,91,DANDIROM,BEDROOM,Naseem Garden,17:00-21:00,CONFIRM,JAMSHAID KHAN,6672,DANUBE,92859214/4167,pp,Due to late
+1323,31-Aug-26,8-Aug-26,WO26006589,SAID AL SHEZAWI,96897554899,,57,DANDIROM,HOSO,barka,13:00-17:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,79667903,pp,wrong location
+1324,31-Aug-26,29-Aug-26,WO26007334,Alina  Nawaz,96891276663,,64.5,DANDIROM,HOSO,Barka,17:00-21:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,79667903,pp,wrong location
+1325,31-Aug-26,2-Aug-26,WO26006335,فيصل المعولي,96899660808,,169,DANDIROM,LIVING,wadi maawil,09:00-13:00,CONFIRM,HAMZA SALEEM,8788,NOVELTY,79667903,pp,Customer not answer the call
+1326,31-Aug-26,27-Aug-26,WO26007262,Rayan Alsaidi,96894170069,,68,DANDIROM,BEDROOM,Al khod,17:00-21:00,CONFIRM,ALI BASHIR,6341,ELITE,94309515,pp,Customer want to later
+1327,31-Aug-26,26-Aug-26,WO26007189,Haifa Alraisi,96897112001,,192,DANDIROM,BEDROOM,mabila,13:00-17:00,CONFIRM,Dawood Khalfan,455,ELITE,96624471,pp,Customer want to later
+1328,31-Aug-26,27-Aug-26,WO26007250,samah bou,96898904977,,64,DANDIROM,HOSO,Mabellah,09:00-13:00,CONFIRM,Dawood Khalfan,455,ELITE,96624471,pp,Customer want to Cancel order
+1329,31-Aug-26,23-Aug-26,SO26134890,FAISAL,96895533946,,136,SOHR,BEDROOM,suwaiq,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,DANUBE,93650688/4176,pp,Customer house no space
+1330,31-Aug-26,27-Jun-26,SO26102656,SULAIMAN,96899124561,,327.8,SOHR,BEDROOM,sohar,09:00-13:00,CONFIRM,MOHSIN RAZZAQ,7288,DANUBE,93650688/4176,pp,Customer site not ready
+1331,31-Aug-26,25-Aug-26,SO26136519,HASAN YOUSUF,96899102223,,151,BARKA,BEDROOM,barka,13:00-17:00,CONFIRM,ZUBAIR ALI,8622,DANUBE,91325197/1201,pp,Customer want to Cancel order
+1332,31-Aug-26,26-Aug-26,SO26136971,Essam,96877343383,,584.25,MBLB2C,HOSO,IZKI,13:00-17:00,CONFIRM,HAIDER ALI,5042,DANUBE,99024369/4174,pp,Customer site not ready
+1333,31-Aug-26,26-Aug-26,SO26136973,Essam,96877343383,,439.25,MBLB2C,HOSO,IZKI,13:00-17:00,CONFIRM,HAIDER ALI,5042,DANUBE,99024369/4174,pp,Customer site not ready
+1334,1-Sep-26,24-Aug-26,WO26007149,Bayan Salim,96896098869,,105,DANDIROM,BEDROOM,Amarat,13:00-17:00,CONFIRM,MOHSIN RAZZAQ,7288,DANUBE,93650688/4176,pp,customer not available at home
+1335,1-Sep-26,25-Aug-26,SO26136089,eayda,96896660352,,325,SOHR,BEDROOM,shinas,09:00-13:00,CONFIRM,HAIDER ALI,5042,DANUBE,99024369/4174,pp,customer not available at home
+1336,1-Sep-26,29-Aug-26,SO26138673,muna,96897111686,,80.5,MBLB2C,YOUNG BEDROOM,AL HAIL,17:00-21:00,CONFIRM,MOHD AHMED,1008,DANUBE,98801642/4317,pp,Due to late
+1337,1-Sep-26,26-Aug-26,SO26137305,shikha,96892931207,,217,MBLB2C,DINING,mabila,17:00-21:00,CONFIRM,ALI BASHIR,6341,ELITE,94309515,pp,Due to late
+1338,1-Sep-26,14-Aug-26,SO26130091,BADRIYA AL BALOCHI,96899197978,,187.7,MBLB2C,BEDROOM,mabila,17:00-21:00,CONFIRM,ABDULLAH HAMED,5845,ELITE,79048737,pp,customer not available at home
